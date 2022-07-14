@@ -1,0 +1,1001 @@
+,organizer,call_duration_mins,participants,interaction
+0,Lori Sellers,141,"['Joshua Stephenson,Joseph Humphrey,James Burns,Douglas Brown,Valerie Faulkner,Nathan Conway,Matthew Adams,Miranda Edwards']",High
+1,Melissa Stark,41,"['Andrea Taylor,Chris Santiago,Kevin Martin']",Medium
+2,Brian Cox,141,"['Jeffrey Barton III,Katherine Torres,Joseph Nicholson,Deborah Kelley,Gabrielle Murray,Veronica Arroyo,Kelly Williams MD,Sydney Reed,Christopher Vazquez']",Medium
+3,Brent Henderson,148,"['Eric Burgess,Noah Wood,Antonio Parker,Barbara Austin,Thomas Ramirez,Edward Jones,John Bailey,Robert Taylor,Paula Ryan,Joshua Lambert']",High
+4,Chelsea Garcia,44,"['Amy Adams,Lori Trujillo,John Bryant']",High
+5,Rachel Douglas,157,"['Mr. Lawrence Gonzalez MD,Edwin Williams PhD,Bryan Peterson']",Medium
+6,Christopher Booth,72,"['Amanda Beck,Teresa Davis,Melissa Hall,Jeffrey Mitchell,Andrew Coleman,John Reed,Anne Diaz,Scott Romero,Robert Johnson']",High
+7,Stephanie Morgan PhD,168,"['Michelle Frank,Todd Lowe,Sandra Sampson,Cody Young,Julie Castillo DVM,Renee Bailey,Shawn Garcia,Nathan Newman,Mark Brennan,Crystal Mejia']",High
+8,Monica Jones,160,"['Tracy Welch,Emily Russell,Daniel Brown,Michael Mcmahon,Andrew Flores']",High
+9,Amanda Maldonado,108,"['Matthew Murphy,Kathy Rodriguez,Joshua Andrews,Shane Ryan,Raymond Lewis,John Carroll']",Low
+10,Joseph Larson,144,"['Sharon Stevens,Leslie Newman,Leslie Rodgers']",High
+11,Dana Caldwell,180,"['Francisco Hurst,David Sheppard,Manuel Jones']",Medium
+12,Natalie Holland,160,"['Susan Hahn,Victor Herrera,Adam Ortiz,Christina Sampson,Jared Barnes,Jennifer Evans,James Casey,Susan Allen,Tammy Michael']",Medium
+13,Hayley Ward,28,"['Susan Brown,Jonathan Roman,Clifford Carey']",Medium
+14,Christina Baldwin,96,"['Samantha Alvarado,Linda Mendoza,Robert Hill,Jennifer Porter']",High
+15,Edward Gonzalez,99,"['Michelle Bowers,Crystal Walker,Elizabeth Fowler,Hannah Whitaker,Thomas Porter']",Medium
+16,Cody Boyd,13,"['Susan Reyes,Danielle Reynolds,Brett Ross']",Medium
+17,Paul Mckee,18,"['Priscilla Barrett,Timothy Joyce IV,Charles Walker,Michael Zamora,John Wiley,Stephanie Rice,David Morrow,Anthony Brewer']",Medium
+18,Roy Patel,177,"['Benjamin Fields,Kimberly Miles,Jessica Garcia,Daniel Morris,Kristine Lloyd,Joshua Ruiz,Brian Garrett']",Low
+19,Steven Gibson,45,"['Meghan Howard,Gary Bell,Tara Donaldson']",Medium
+20,Jody Ruiz,80,"['Katie Mckinney,Victoria Spencer,Christopher Peterson,Jennifer Davidson,Margaret Buck,Daniel Bailey,Jaime Johnston']",Medium
+21,Dennis Warren,68,"['Matthew Phillips,Tanya Rubio,Rebecca Leon,Stacie Young,Katrina Castillo']",High
+22,Peter Flowers,142,"['James Rodriguez,James Jimenez,Tina Duffy,Erik Smith,Jacqueline West,Felicia Davis']",Medium
+23,Jon Spears,155,"['Lisa Thomas,Sandra Mendez,Edward James,Brandon Davis']",Low
+24,Miguel Hunt,155,"['Danny Henderson,Phillip West,Taylor Smith,Anthony Leon,Gina Smith,Kevin Burke,Amanda Mccarty']",Medium
+25,Alicia Dunn,68,"['Joshua Perez,Ryan Vincent,Linda Davis']",Low
+26,Hayden Chapman,137,"['Dylan Carter,Edward Lopez,Daniel Jimenez,Thomas Martinez,Heidi Anderson']",High
+27,Beth Ward,69,"['Jamie Reed,Danielle Beltran,Veronica Hobbs,Samuel Drake,Alex Kane,John Hill']",Medium
+28,Bryan Compton,13,"['Joseph Lynch,Monica Scott,Alan Hunter,Derrick Mosley,Eileen Allen,Barbara Hensley,Lisa Freeman,Timothy Lopez,Peggy Olson,Victor Miller']",Medium
+29,Terry Weber,126,"['Kyle Allen,Samantha Brown,Adam Thomas,Laura Miller,Mrs. Jessica Patterson,Connie Patterson,Catherine Cook,Jeffrey Alvarado,Curtis Ramsey,Charles Diaz']",High
+30,Emily Nguyen,180,"['James Wilson,Maria Sanchez,John Mcdaniel,Cynthia Bell,Judith Garner,Bryan Mclaughlin']",Low
+31,Sharon Blanchard,169,"['Kimberly Moyer,James Peterson,Michelle Ponce,Jennifer Glover']",Low
+32,Michael Peck,67,"['Laura Carlson,Jacob Maxwell,Joshua Banks,Kyle Baker']",High
+33,Juan Nelson,171,"['Michael Lopez,Marilyn Spencer,Shirley Mason,Aaron Hodge,Jamie Gillespie']",Medium
+34,Patricia Hickman,165,"['Gregory Lee,Andrea Wiley,Laura Lopez,Jennifer Stanley,Bryan Nguyen,Fred Johnson,Chase Simmons,Jared Kelly,Katherine Gonzales,Brittany Hamilton']",High
+35,Ann Beltran,172,"['Stephanie Whitaker,Kelly Garcia,Susan Jennings,Dawn Jimenez,Michael Murphy,Scott Moses,Michael Johnson,Samantha Jimenez,Erik Santos,Elizabeth Valencia']",Medium
+36,Jackie Williams,116,"['Kevin Dorsey,Christopher Scott,Dana Williams']",High
+37,Anthony Jones,88,"['Judy Vega MD,Curtis Gallegos,Leslie Jones,Maria Brown,Steven Taylor,Jill Ramirez']",Low
+38,Sarah Kim,65,"['Elizabeth Reed,James Campos,Kelsey Arnold']",Low
+39,Christine Jensen,123,"['Kyle Elliott,Susan Graves,Amanda Martin,Christina Barrett,Jonathan Morgan,Patricia Foley']",High
+40,Jim Perry,149,"['Gail Wilson,Christopher Ramos,Matthew Green']",Low
+41,Molly Reynolds,59,"['Sarah Schultz,Christine Hughes,Christopher Cline,Kathryn Moyer,Brandon Allen,Evelyn Hanna']",Medium
+42,Stephanie Smith,42,"['Gary Owen,Mr. Jose Johnston,Eric Gonzales,Mr. Matthew Powell,Amanda Russell,Ronald Bell,Stephanie Meyer,Michael Wells,Jack Roy,Jacqueline Morgan']",Low
+43,Kara Thompson,115,"['Kimberly Garcia,Ashley Stanley,Kevin Bailey Jr.,Christian Stewart,Rachael Dunn']",Medium
+44,Austin Barajas,124,"['Yvonne Chambers,Chase Lewis']",Medium
+45,Charles Davis,108,"['Elizabeth Alvarez,Brandy Acosta,Maria Warren,Susan Williams,Charles Roberts,Eric Williams,Lisa Rodriguez,Kimberly Hernandez']",Medium
+46,Carl Patel,163,"['Kelly Leonard,Matthew Adams,Matthew Harvey,Kelly Morris,Michelle Wade,Casey Hernandez,Rose Garcia,Kenneth Sharp,Jennifer Moore']",Low
+47,Sheila Savage,78,"['Janet Guerra,Abigail Nelson,Mr. Robert Evans,Judy Chandler']",Medium
+48,Charles White,39,"['Michael Potter,Mr. Michael Sweeney']",Medium
+49,Denise Anderson,118,"['Scott Archer,Jeffrey Miller,Nicholas Snyder,Christopher Olson,Steven Evans,Jennifer Keller,Veronica Hernandez,Christopher Wilson,Matthew Diaz,Jennifer Kirby']",Medium
+50,Virginia Jones,160,"['Dr. Jessica Schaefer MD,Jessica Brown,Michael Vincent,Dennis Calderon']",High
+51,James Roberts,95,"['Maria Dawson,Mrs. Jennifer Smith MD,Mary Hernandez,Terri Tate,Daniel Hickman,Jason Jones,Ronald Moran,Crystal Wagner,Dr. David Carter Jr.']",Medium
+52,Christy Brown,62,"['Kimberly Stephens,Kevin Watkins,Thomas Neal,Gina Elliott,Kristen Duran,Lawrence Ball,Lindsay Martin,Ian Valentine,Gina Powers']",Low
+53,Katherine Rhodes,124,"['Wayne Dunn,Elizabeth Wise']",Medium
+54,Gary Cohen,161,"['Pamela Evans,Jennifer Graham PhD,Ryan Ware,Timothy Jones,Curtis Villanueva,Lauren Carroll']",Medium
+55,William Ray,170,"['Michael Gross,Betty Wiley,Shannon Maynard,William Castro,Teresa Henry,John Juarez,Roger Newton,Brandi Ramos,Bonnie Massey,Monique Brooks']",High
+56,April Coffey,118,"['Sara Kennedy,Joseph Ramsey,Erin Atkinson']",High
+57,Mrs. Diane Simpson,107,"['Krystal Mitchell,Tiffany Byrd,Ian Sanchez']",High
+58,Elizabeth Santana,72,"['Gregory Beck,Sarah Lynn,Thomas Poole,Jacqueline Price,Henry Bennett,Timothy Wallace,Gregory Anderson,Ryan Wiley,Spencer Snyder']",High
+59,Linda Martinez,140,"['Christy Cooper,Jesus Osborn,Donald Diaz,Scott Sims']",High
+60,Phillip Moreno,57,"['Christina Johnson,David Warren,Curtis Reed,Jeremy Campbell,Robert Tran,William Goodman']",High
+61,Kristin Bryan,70,"['Kimberly Garcia,Stephanie Duarte,Jody Cox,Douglas White,Jay Washington,Larry Carrillo,Jeffrey Nielsen']",Low
+62,Latasha Smith,110,"['William Hughes,Mr. Clarence Jackson,Michael Woods,Samantha Brown']",Low
+63,Phillip Stewart,120,"['Ana White,Rebecca Watts,Billy Jimenez']",High
+64,Tammy Moore,22,"['Eric Montgomery,Laura Thomas,Gregory Pacheco,Jessica Perry']",Low
+65,Chris Torres,156,"['Joseph Davis,Kelly Ross,Anthony Tyler,Michelle Russell,Maria Gentry,Todd Bishop,Hannah Lawrence']",Medium
+66,Karen Carlson,69,"['Jennifer Davis,Cheyenne Watkins,Tara Taylor,Michael Vargas,Christian Jones,Cristian Gaines,Kevin Green,Jason Hale']",Low
+67,Richard Reyes,158,"['Daniel Morgan,Amanda Fitzpatrick,Jessica Frank,Tina Miller,Julie Nolan,Melissa Nicholson,Debra Huerta,Amber Craig,Ryan Perez,Derek Conner']",Medium
+68,Timothy Obrien,171,"['Stephen Bowers,Chelsea Fischer,Emma Leonard,Kelly Manning,Christina Moore,Allison Williams']",Low
+69,Madeline Young,127,"['Gabrielle Everett,Ann Wright,Nicole Garcia']",Medium
+70,Alexandria Bartlett,10,"['Nicholas Smith,Cory Jackson,Jo Goodwin,Shirley Miller,Jacob Kane,Adriana Holloway,Kevin Romero']",High
+71,Jonathan Hoffman,121,"['Christine Mora,John Dixon,Michelle Hall,Christina Yates,Gina Guerrero,Carol Miller,Karen Preston,Jenna Sutton,Garrett Bennett']",Low
+72,Alison Dunn,174,"['Melissa Ward,Stephen Schwartz,Deborah Henderson,Theresa Nixon']",Low
+73,Mark Hodges,175,"['Brianna Chandler,Valerie Smith,Kimberly Acevedo,Stephanie Richard,Jonathan Thompson,Michael Martin MD,Cynthia Jones,Laura Walker,Wendy Olson,Stephanie Jones']",High
+74,Austin Baker,158,"['Bryce Estrada,Michael Jackson']",High
+75,Stephanie Morgan,99,"['Sandra Moran,Adam Martinez,Frank Hernandez']",Low
+76,Louis Huerta,25,"['Ana Tyler,Patricia Miller,Gary Flores,Darius Simon,Jennifer Rocha,Elizabeth Graves,Kayla Carter,Brandon Smith,Laura Clark']",Low
+77,Jeremy Holt,135,"['Matthew Mendoza,Renee Nash,Jeanette Heath,Dennis Rodriguez,Michael White,Darrell Lowery,Tanya Cooper,Jessica Duke DDS']",Low
+78,Dana Griffin,88,"['Earl Cortez,Timothy Mathis,Eric Turner']",Low
+79,Cody Mcclure,109,"['Ryan Brewer,Ronald Turner']",Medium
+80,Jacob Colon,173,"['Eric Lopez,Leonard Grant,Sheila Ryan,Lori Jones,Vincent Fisher,Lee Daniels,Rachael Johnson DDS']",Low
+81,Stephanie Brown,180,"['Todd Robinson,Tracy Cooley,Jesus Dunn,Jason Day,Lisa Young,Melissa May,Donna Weiss,John Bailey,Sandra Carrillo']",Low
+82,Jennifer Morgan,173,"['Clinton Harvey,Mr. Chad Ortiz Jr.,Dr. Debra Wilson PhD,Kathy Jones,Cody Gross,Aaron Eaton,Mr. Cody Sims DDS,Andrea Thompson']",Medium
+83,Brian Bryant,58,"['John Gray,Tonya Huffman,Robert Elliott,Ryan Davis,Nicole Green,Stephanie Atkinson']",Low
+84,Richard James,180,"['Lisa Sparks,Jeffrey Tucker,Ronald Brooks,David Perez,Tabitha Freeman,Melissa Gutierrez']",High
+85,Emily Combs,142,"['Jacob Grant,John Johnson,Henry Holmes,Shawn Harris,Ronald Smith']",Low
+86,Manuel Sanders,72,"['Mr. Christopher Ashley,Christina Payne']",High
+87,Jesse Cook,24,"['Alexander Cowan,Elizabeth Cox,Glen Brown,Virginia Harper,Brad Cole,Todd Hubbard']",Low
+88,Joseph Flores,69,"['Lynn Paul,Stephanie Garcia']",High
+89,Zachary Anderson,98,"['Jennifer Cooper,Charles Hoover,Alexandra Berry,Rachael Beck']",Low
+90,Jose Hill,53,"['Heather Williamson,Crystal Perkins,Brittany Zamora,Christina Beck,Andrew Lewis,Kelly Graham,Linda Morris,Laura Hampton']",High
+91,Jason Jones,178,"['Dr. Kathryn Barnett,David White,Scott Gonzalez,Michael Powers,Elizabeth Cochran,Logan Bryant,Jason Williams,Ann Kelley,Kimberly Chavez']",Low
+92,Tamara Ward,59,"['Andrew Hernandez,Perry Wilson,Jonathan Armstrong,Michelle Rocha MD,Brenda Lee,Rhonda Ward,Elizabeth Yu,Donna Alvarez,John Smith,Michael Lopez']",Low
+93,Darrell Baker,25,"['Christopher Parks,Paul Buchanan,Allen Castro,Rick Cohen']",Medium
+94,Ronnie Dodson,19,"['Catherine Boyd,Anthony Fitzgerald']",Medium
+95,Javier Dixon,55,"['Yvonne Anderson,Rebecca Lozano,Ashley Pitts,Krystal Underwood,Kimberly Gray,Chloe Davis,Timothy Williams']",High
+96,Mario Patterson,158,"['Ashley Brown,Lisa Lopez,Eric Smith']",Medium
+97,Todd Williams,79,"['Corey Ellis,Jason Osborne,Kathleen Burnett,Rachel Montgomery,Desiree Gregory']",Medium
+98,Seth Williams,146,"['Gina Haynes,Mark Love,Daniel Farmer,Todd Roberts,James Mccoy,Nicholas Martin,Randy Bowman,Diana Crawford,Jason Ryan,Johnny Evans']",High
+99,Steven Smith,28,"['Tyrone Roman,Joshua Miller']",Medium
+100,Willie Jones,37,"['Sergio Fox,Jennifer Lane,Monique Kelly,Sarah Hall,Vanessa Robinson,Dillon Gonzalez']",High
+101,Karen Morgan,128,"['Carol Green,Mr. Jonathan Martinez,Michael Stevens,Damon Jones,Jimmy Rhodes,Brittany Nguyen,Charles Kennedy,Debra Jones,Samantha Gray']",Low
+102,Tara Hood,152,"['Michelle Nguyen,Brandy Gray']",Low
+103,Caitlin Wilkins,169,"['Marcus Black,Martha Lawrence,Matthew Ewing,Timothy Anderson']",Low
+104,Jesse Harris,12,"['Mary Ortiz,Mary Crawford,Karen Wilson,Alejandra Gardner,Kimberly Benson,Brian Turner']",High
+105,Douglas Perkins,18,"['Christian Durham,Oscar Hammond,Scott Clark,Carol Sanchez,Thomas Hull,Jamie Neal,Susan Wilkins,Julie Carr,James Mcdaniel']",Low
+106,Christina Wong,111,"['Kristen Alexander,Nathan Harrison,Randy Smith,Michelle Watson']",Medium
+107,Rebecca Newton,16,"['Shannon Simmons,Wendy Galloway,Heather Chan,James Cardenas,Emily Horton,Margaret Atkins']",High
+108,Brian Crosby,151,"['Christopher Burton,Michael Johnson,Lori Brown,Brian Hicks,Lisa Duncan,Ann Moore,James Burns']",Low
+109,Joseph Hernandez,114,"['Charles Webb,Thomas Blair,Heather Tucker,Thomas Dean,Juan Vazquez,Michael Wells,Dawn Fuentes']",Low
+110,Nicholas Simmons,77,"['Steven Walker,Charles Miranda']",Medium
+111,Johnny Benitez,56,"['Walter Carter,Alexis Curtis']",Medium
+112,Rita Franklin,148,"['Jason Stewart,Christina Jefferson,Christy Rivera,Stanley Rocha,Jennifer King']",High
+113,Austin Montes Jr.,45,"['Summer Davis,Abigail Parks,Tracy Williams,Manuel Scott,Benjamin Hampton,Danny Mueller']",Low
+114,Kristin Zuniga,47,"['Aaron Sims,Sarah Davis,Seth Hernandez,Lauren Stone,Jason Barnes,Sergio Coleman']",Low
+115,Amy West,45,"['Cynthia Jones,Rachel Williams,Lee Kirby,Roberta Moore,Megan Paul,Kevin Soto,Christie Lewis,Patrick Martin,Denise Valencia']",Low
+116,Dawn Jones,125,"['Kelsey Miller,Jessica Howell']",Low
+117,David Jennings,142,"['Dennis Hill,Robert Colon,Steven Mcdaniel,Lindsey Holder']",Medium
+118,Brittany Hinton,152,"['Melissa Keller,Monica Carroll,Hector Hernandez,Deborah Henderson,Stephanie Glass,Hector West,Daniel Thomas,Lisa Wade,Amy Mcdonald,Fred Garcia']",Low
+119,Robert Sanders,115,"['David Johns,Tina Mclaughlin,Edward Smith,Brandon Vazquez,Alison Figueroa']",Medium
+120,Amy Franco,150,"['Miguel Zimmerman,Joshua Sweeney,Samantha Moreno,Anthony Brewer,Aaron Robinson,Devin Butler,Lucas Warren']",Medium
+121,Dr. Jeanne Clay MD,91,"['Stephanie Taylor,Elizabeth Cannon,Carol Horton,Jamie Carter,Paula Wilson,Tammy Montoya,Diana Cox,Jason Little,Andrew Garcia,Randy Young']",Low
+122,Jeffrey Anderson,68,"['Christopher Solomon,Cory Stevens,Hunter Phelps,Jim Tucker']",Low
+123,Wendy Franco,110,"['Melissa Morris,Michael Miranda,Richard Floyd,Mckenzie Johnson']",High
+124,Regina Jackson,39,"['Scott Mccullough,Evelyn Proctor,Katie Hernandez,Laura Chan,Katelyn Jackson,Thomas Lucas,Carlos Brown']",Low
+125,Heather Brown,51,"['Mrs. Emily Sandoval,Julie King,Katrina Fields,Lindsey Bailey,Dillon Chapman,Mark Young,Daniel Smith']",Low
+126,Stephanie Browning,59,"['Dylan Foster,Dale Anderson,Mr. Larry Brennan']",Low
+127,Michael Harrell,22,"['April Brown,Nicole Rogers,Julie Daniels,Patricia Flores,John Conley,Jared Garcia,Cody Contreras,Jackson Salinas,Danielle Spencer']",High
+128,Virginia Walker,60,"['Margaret Jenkins,Stephanie Johnson,Glen Snyder,Jacob Anderson,David Molina']",High
+129,Phillip Odonnell DVM,169,"['Edward Brown,Melissa Lewis,Catherine Alvarado,Thomas James']",Medium
+130,Jerome Mason,145,"['Jacob Bell,Eric Mclaughlin,Keith Wilkinson,Christine Hayes,Jon Roach']",Medium
+131,Alan Snyder,151,"['Christina Price,Robert Jackson,Albert Mclean,Eric Miller,Lori Barton,Heather Gibson,Matthew Lewis']",Medium
+132,Melissa Taylor,98,"['Daniel Quinn,Amy Cooper,Stacy Jones']",Low
+133,Brittany Hawkins,58,"['Emma Robinson,Mark Bartlett,Michelle Woods,Allen Mendoza,Michael Welch']",Low
+134,Cody Townsend,87,"['Larry Quinn,Steven Peck,Charles Smith,Michael Goodwin,Alexis Garcia,Sheena Powell,Gary Reeves']",Low
+135,Michael Wilson,64,"['Eric Smith,Carrie Skinner']",Medium
+136,Joy Smith,175,"['Haley Fleming,Monica Mcbride,Sara Gibson,Cindy Rose,Gregory Hernandez,Kristina Moore,Patricia Adams,Justin French,Valerie Garner']",Medium
+137,David Warner,43,"['David Hernandez,Christine Lewis,Caitlyn Vega,Laura Guzman,Ronnie Curtis,Luis Brown,Matthew Kidd,Michelle Peck,Tara Cobb']",High
+138,Christopher Arias,67,"['Sara Beck,Regina Hall,Daniel Mcgrath,Gerald Collins,Charles Myers']",Medium
+139,Brian Carr,142,"['Douglas Roberson,Morgan Johnson,Joseph Hernandez,Shelby Pena']",Low
+140,George Robinson,81,"['Derek Schmidt,Richard Barnes,Paul Barnes']",Low
+141,Sarah Roberson,36,"['Shawn Ramirez,Jonathan Bray,Matthew Hughes,Ellen Sanders']",Low
+142,Todd Russell,124,"['Timothy Baker,Howard Aguilar,Todd Nguyen,Gregory Marquez,Caitlin Johnson,Andrew Allen,Gary Crawford,Lisa Meyer,Jorge Benton,William Johnson']",Medium
+143,Elizabeth Grant,49,"['Kyle Dean,Todd Nelson,Mary Miranda,Gina Mcgee,David Edwards,Denise Sanchez,Anthony Schmidt,John Smith']",Medium
+144,Steven Irwin,54,"['Shelby Nunez,Benjamin Hill,Angela Armstrong,Breanna Obrien,Cody Smith,Angel Johnson']",Low
+145,Clinton Wolf,22,"['Jonathan Miller,Hannah Ramirez,Nicolas Fitzgerald,Julia Esparza']",High
+146,Jamie Simpson,80,"['Nicole Rose,Linda Contreras,Thomas King,Lisa Park,Danny Mendoza,Eric Stewart,Robert Vang,Stephanie Marshall,Monica Davis']",Low
+147,Shannon Ryan,20,"['Martha Obrien,Cynthia Alvarez,Sarah Hickman,Jeff Williams,Karen Gordon,Andrew Jacobson,Brenda Blair DDS']",High
+148,Becky Smith,17,"['Anthony Knight,Samantha Torres,Curtis Nguyen,Whitney Gonzales,Lucas Smith,Hunter Stuart,David Hernandez']",High
+149,Ashley Schwartz,176,"['Julia Harris,Mark Hicks,Erica Robinson,John Morris Jr.,Robin Reyes,Robert Patterson,Valerie Mann,Elizabeth Strong,Anthony Lewis']",Low
+150,Kim Hurley,112,"['Lisa Martinez,Amanda Garner,Jennifer Andrews,John West,Daryl Kramer,Matthew Graham,Miranda Melton']",Low
+151,Alexander Ruiz,173,"['Victor Hall,Victoria Sanchez,Alisha Smith']",High
+152,Jennifer Perez,105,"['Marie Hall,Johnathan Mendez,Shawn Frye,Maria Barr,Jimmy Mason,Robert Johnson']",Medium
+153,Felicia Melton,53,"['Ian Combs,Elizabeth Savage']",Low
+154,Todd Phelps,62,"['Kyle Hall,Sherry Castro,Timothy Kidd,Richard Howard']",Medium
+155,William Thornton,58,"['Rebecca Thompson,Karen Holt,Mr. Glenn Carrillo,Miguel Callahan,Heidi Orozco']",Low
+156,Nicole Henry,127,"['Nicholas May,Cynthia Murphy,Kelly Ware,Ashley Randolph,Jessica Brown,Evan Mack,Michelle Conner,Meredith Wright']",High
+157,Dalton Robinson,170,"['Joseph Long,Abigail Johnson,Tamara Davis,Kathleen Proctor,Tanner Flores,Sharon Anthony,Mrs. Cindy Hanson MD,Joshua Burke']",High
+158,Michelle Davis,43,"['Renee Leon,Jamie Norman,Meagan Rosario,David Garner']",Low
+159,Jordan Kim,99,"['Joshua Baker,John Rangel,Daniel Watson,Pamela Jones,Micheal Perez']",Medium
+160,David Gregory,99,"['Christine Baker,Aaron Davis,Lisa Parker,Cheryl Burns']",Medium
+161,Stephen Weiss,54,"['Nicholas Sweeney,William Walton,David Krueger,Christopher Lindsey']",Medium
+162,Kelly Mcintosh,74,"['Preston James,Joseph Simpson,Melissa Aguilar,Noah Vasquez']",High
+163,Garrett Brown,71,"['Leslie King,Joseph Moore,Ariana Pierce,Melissa Lopez,Shannon Baker,Kathy Walters,Tracy Miller']",Medium
+164,Pam Leon,31,"['Eric Hood,Rachel Shields,Robert Nguyen']",Low
+165,Bryan Welch,23,"['David Neal,Michael Wood,Mark Lopez,Megan Mcknight,Lisa Forbes,Jacob Taylor,Christopher Gordon MD,Kelsey Jones,Haley Clayton,William Davis']",Low
+166,Kirk Griffith,100,"['William Thompson,Bianca Schneider,John Valenzuela,James Schmidt,Kimberly Gordon,Nancy Adams,Michael Adams']",High
+167,Catherine Meyer,175,"['Rose Kennedy,Ashley Zavala,Sabrina Randall,Joshua Curtis,Jordan Snyder']",Medium
+168,Ian Greene,133,"['Benjamin Vance,Heidi Osborne,Timothy Jackson,Julie Miller,Bonnie Perkins PhD,Christopher Lambert,Amy King,Bailey Abbott']",Low
+169,Kelly Warner,71,"['Jennifer Jackson DVM,Anne Daniel']",Medium
+170,David Blair,54,"['Rachel Howard,Steven Cherry,Gregory Garcia,Sarah Sellers,Jennifer Turner']",Medium
+171,Dr. Jill White,68,"['Lisa Brock,Heather Davis,Benjamin Rodriguez MD,Megan Crawford']",Medium
+172,Alexa Russo,134,"['Cody Perez,Kelly Schneider,Brandon Thompson,Kimberly Flores,Heather Miller,Margaret Weber,Fred Barajas,Dylan Howard,Randall Ortiz']",Low
+173,Paul Brown,49,"['Steven Barton,Jessica Payne']",High
+174,Austin Walls,134,"['Debra Fox,Kevin Elliott,Jasmine Oneal,Heidi Lewis,Kevin Russell,Jeffrey Spencer']",Low
+175,Thomas Smith,21,"['Christian Barrett,Christopher Smith,Bruce Foster,Amanda Shaw,Emily Boyer,John Conrad,Jesse Adams,Danielle Collins,Brittany Anderson,Maria Morris']",High
+176,James Charles,120,"['Jonathan Owens,Dawn Brown,Gregory Reynolds,Jonathan Wright,Michael Keller,Rebecca Sosa,Leslie Giles,Danielle Franco,Mercedes Miller,Erika Jimenez']",Low
+177,Phillip Morales,59,"['Jennifer Moore,Susan Gomez,Shannon Dixon,William Mckee,Joseph Miller,Amanda James,Sue Dean,Nancy Smith']",Medium
+178,Derek Hancock,56,"['Paige Ryan,Nathan Aguilar,Sharon Smith,Tiffany Spencer,Bradley Mora,Henry Smith,Julia Griffith,Jeremy Hernandez,Erica Brown']",High
+179,Douglas Cooley,121,"['Michelle Hill,Kevin Ross,Adrian Snyder,Mark Avery,David Le,Susan Schultz']",Low
+180,Gabriela Jordan,117,"['Connie Banks,Darren Olson,Richard Daniels,Michael Francis']",High
+181,Evan Hebert,117,"['Emily Campbell,Paula Alexander,Courtney Sullivan,Crystal Harris']",Medium
+182,George Barnes,39,"['Andre Doyle,Jillian Lester,Paul Young']",High
+183,Jason Rodriguez,56,"['Teresa Adams,Lisa Logan,Ashley Bates,Chad Foster,Brian Page,Ryan Rodriguez,Karen Wagner,Joshua Kim DVM,Amber Willis,Kathryn Fernandez']",Low
+184,Amber Miller,139,"['Jeffrey Michael,George Stark,Cassandra Hanson,Dana Stout']",Medium
+185,Randy Roy,46,"['Heidi Webb,Phillip Jordan,Dana Contreras,Ashley Harmon,William Hoffman,Renee Ford,Joshua Richardson,Jose Hicks,Christian Nichols']",High
+186,Sierra Drake,138,"['Hailey Larson,Maria Lyons MD,Jennifer Kramer MD,Shawn Curtis,Julie Calderon,David Wright,Nicholas Baker,Marcus Diaz']",High
+187,Paul Williamson,163,"['Brianna Arellano,Kristy Chase,Anthony Davis,Patricia Bowers,Dr. Kelsey Hughes,Anna Thomas,Hannah Saunders,Jason Cunningham']",Medium
+188,Alan Green,102,"['Regina Orozco,Mark Flores,Jessica Morrow,Kevin Cabrera,Eric Lewis,Jennifer Cohen']",Low
+189,Brittany Roberts,94,"['Roberto Rice,Derek Luna,James Stark,Philip Warren,Michelle Sawyer']",High
+190,Kristen Valdez,146,"['Samuel Lee,Monica Hancock,Amanda Mcfarland,Charles Carroll,Patricia Johnson,Thomas Kline,Patrick Davies,David Johnson,Catherine Bell,Laura Baldwin']",Medium
+191,Nathan Bradshaw,168,"['Scott Washington,Christian Wheeler,Nicole Zimmerman']",High
+192,Dr. John Rivera,131,"['Marie Gibson,Jeremy Anderson,William Boyd,William Mitchell,Kathy Weaver,John Rivera,Kenneth Lamb,Angela Blackburn,Melissa Matthews,James Nelson']",Medium
+193,Bryan Smith,49,"['Angel Dodson,Clinton Beasley,Julie Elliott,Nancy Munoz,Robert Hill,Diane Holmes,Randy Johnson Jr.']",High
+194,Shane Wright,45,"['Patricia Marquez,Max Patel,Brandon Gilbert,Lawrence Quinn,Michael Christensen,Katie Wallace,Theresa Brooks']",Low
+195,Jennifer Medina,123,"['Andres Schneider,John Myers,Rebecca Becker,Darlene Glass,Marie Herring']",Medium
+196,Corey Foley,36,"['Vanessa Tucker,Cody Hinton']",High
+197,John Wu,117,"['Dalton Mcfarland,Cheryl Villegas,Donna Prince,Melissa Snyder,Lindsey Miller,Dr. Linda Johnson,Paul Oconnor,Shelley Clark']",Medium
+198,Michelle Buckley,153,"['Gilbert Gonzales,Shannon Moran,Brandi King,Daniel Harris,Charles Smith,Johnny Todd,Ricky Powell,William Chambers,Tracey Morrison']",Low
+199,Nicole Baldwin,159,"['Angela Bailey,Christina Williams,Christian Stewart,Patricia Reyes,Mindy Owen,Danielle Santos,Vicki Levine,William Garcia,Joshua Burns,Darren Reynolds']",Medium
+200,Kimberly Caldwell,112,"['Christopher Murray,Cesar Ramirez,Tina Bennett,Michael Lamb,James Serrano,Lisa Wolfe,Mrs. Monica Hebert']",High
+201,Dakota Reyes,133,"['Kimberly Contreras,Richard Morris,Derrick Murphy,Mr. Jeremy White,Yvette Phillips,Nicholas Newman,Joseph Rodriguez,Heather Arias']",Low
+202,David Price,157,"['Nicholas Kelly,Mary Combs,Joshua Moss,Haley Jackson,Sara Ward,Carl Navarro,Christian Johnson,Anthony Bridges']",High
+203,Timothy Cook,17,"['Rachel Garcia,Christopher Gray,John James,Dennis Hicks,Derrick Hurley,Gregory Cooke MD,Cynthia Valencia']",High
+204,Stephen Lang,151,"['Scott Hayden,Erin Boyd,Vanessa Jarvis,Joshua Mccarthy']",High
+205,Courtney Davis,78,"['Christopher Webster,Mark Daniels']",Low
+206,Renee Lewis MD,78,"['Heather Armstrong,Bradley Martinez,Mark Knox,Travis Douglas,Ryan Li,Daniel Simmons,Andrew Rose']",High
+207,Paige Mcintosh,138,"['Andrea Davis,Shannon Scott MD,Tiffany Morgan,Michael Gonzalez']",Medium
+208,Kevin Jones,121,"['Walter Hill,Cory Miller']",High
+209,Edwin King,85,"['Donna White,John Torres,Kevin Barron,Benjamin Meyers,Larry Bennett,Cynthia Keller,Anthony Newman,Laura Fields,Jeffrey Zhang,William Brown']",High
+210,Christopher Smith,161,"['James Anthony,Paul Sanchez,Javier Schneider,Joseph Garcia']",Low
+211,Cheyenne Lawson,38,"['Theodore Baker,Katrina Bowman,Thomas Bolton,Stephanie Mayer']",Medium
+212,Richard Williams,120,"['James Bennett,Jill Salinas']",Low
+213,Amber Murphy,39,"['Suzanne Benson,David Smith,James Mosley,Timothy Hartman']",High
+214,George Lopez,47,"['Douglas Ward,Rachel Hull,Tammy Cruz,Desiree Perkins']",Medium
+215,Madison Osborn,73,"['John Owens,Brent Lee,Jeremy Thomas,Jessica Perry,Charles Grant,Collin Nelson']",Medium
+216,Darren Walker,120,"['Michael Spears,Christopher Koch,Jennifer Jackson,Dr. Robin Hernandez,George Hughes']",Low
+217,Natasha Moses,108,"['Lucas Romero,Bryce Swanson,Frank Silva,Noah Madden,William Carter,Haley Jones,Anita Zavala,Helen Sparks,Mark Jones,Donna Harris']",High
+218,Brittany Raymond,86,"['Heather Robertson,Kayla Butler,Anthony Bush']",High
+219,Jason Graham,125,"['Aaron Haas,Mrs. Kayla Jones,Allison Soto,Nicholas Beasley,Michael Kim,Jason Stewart,Stephen Lee,Charles Baldwin']",High
+220,Kyle Gonzalez,121,"['Christopher Greene,Susan Phillips']",Medium
+221,Vicki Edwards,19,"['Nathan Jordan,Melissa Alvarez,David Anderson,Heather English,Janet Perkins,Christine Martin,Benjamin Diaz,Craig Parker,Danielle Mendez,Amanda Davis']",High
+222,Thomas Romero,16,"['James Villarreal,Tammy Mcgee']",High
+223,Ariel Mann,83,"['Andrew Harrington,Dylan Lawson']",High
+224,Randy Kaufman,7,"['Michael Boyd,Joseph Wolfe,Christina Thomas']",Low
+225,Ashley Morrow,160,"['Timothy Nichols,Joshua Cruz,Andrew Mathews,Adam Burns,Mathew Bruce,Dana Jones,Alejandra Murillo,Catherine Bell']",Medium
+226,Brittany Hubbard,66,"['Destiny Petty,Michelle Maddox,Amy Jacobs,Nicholas Hernandez,Adam Thompson,Bianca Calderon,Joyce Rivera,Sandra Gonzalez,Claudia Salas']",Low
+227,Krystal Riley,72,"['Carl Holloway,Diane Moreno,Daniel Mcbride,Jordan Bennett,Ryan Castro,Christopher Hopkins,Denise Hill MD']",Medium
+228,Laura Hutchinson,133,"['Kayla Williams,Brittany Franco,Rachael Cain']",High
+229,Sonya Wells,172,"['Carolyn Johnson,Barbara Love,Marisa Morrow,Jason Mcfarland,Christopher Wells']",High
+230,Tracy Perez,136,"['Greg Taylor,Jason Butler,Thomas Barrett,William Flores DVM']",High
+231,Wendy Gonzalez,162,"['Stephanie Silva,Melissa House,Stephanie Roberts']",Low
+232,Eric Arellano,83,"['Valerie Frazier,Lee Salinas,Latasha Herrera MD,Jordan Williams,Trevor Martin,Jennifer Parker,Matthew Harris']",Medium
+233,William Spencer,164,"['Alexandra Ray,Richard Smith']",Medium
+234,Anne Shaw,133,"['Megan Delgado,Robert Meza,Mark Hughes,Dr. George Hurst,Melinda Taylor,Lori Mueller,Barbara Villarreal,Russell Mcmillan']",Medium
+235,Dr. Christopher Norton,60,"['Travis Cruz,Mike Ellis,Dr. Carrie Moss,Wayne Salinas,John Bryan,Shelby Meyer,Wayne Jennings']",Medium
+236,Paige Odom,92,"['Mark Barker,Sean Adkins MD']",Medium
+237,Isaac Bailey,118,"['Terri Humphrey,Matthew Taylor,Michael Allen,Luis Mcdowell,Lisa Barron MD,Joseph Wells,Yolanda Weber,Kim Lozano,Ronald Santiago']",High
+238,Jodi Fernandez,147,"['Wesley Buchanan,Olivia Fields']",Medium
+239,Jamie Hayden,89,"['Teresa Jones,Michael Beck,Diana Huber,Sheila Marquez,David Carlson,William Lopez,Rachel Nelson,Michael Lewis,William Castro,Erin Gates']",Low
+240,Cheryl Velazquez,177,"['Javier Strong,Joe Parker,Matthew Harding,James Smith,William Snyder,Joseph Carpenter,Lynn Larson']",Medium
+241,Edward Smith,80,"['Patrick Carlson,Veronica Schneider']",High
+242,Charles Lynn,119,"['Molly Woods,Brianna Young,Ross Kim,Daniel Taylor,Andrea Johnson,Aaron Smith']",Low
+243,Mary Cohen,178,"['Jeremy Nguyen,Dwayne Gibson,Mary Rowe,Kristy Garcia,Teresa Mccoy,Dr. Joseph Williams,Corey Zamora,Sean Johnson']",High
+244,Robert Parker,105,"['Sierra Webb,Amber Hurley,Yvette Byrd,Colleen Harris,Sara Peterson,Samantha Adams']",High
+245,Danielle Martin,29,"['Joseph Hurley,Robin Smith,Brian Stokes,James Martinez,Stephanie Russo,Anthony Harvey,Jonathan Graham,Tiffany Thomas,Aaron Rose,Carl Johnson']",High
+246,Amy Saunders,144,"['Kenneth Cameron,Samantha Harris,George Miller MD,Stephanie Howard,Kristina Benson']",Low
+247,Janet Flowers,104,"['Alex Ferrell,Rhonda Holmes,Michelle Ramsey,Jason Bradford,Ryan Cox']",High
+248,William Medina,119,"['Jessica Miles,Thomas Jimenez,Randy Chambers,Donald Blanchard']",Low
+249,Jon Gonzalez,41,"['Matthew Williams,James Smith']",Medium
+250,James Edwards,178,"['Jorge Crawford,Kristina Jennings,Fernando Howe,Tracy Wilkins,Karen French,Gabrielle Lopez,Aaron Rocha,Jaclyn Garner']",Medium
+251,Amanda Murphy,69,"['Christopher Mitchell,Wendy Ewing,Raven Wall']",Low
+252,Denise Freeman,14,"['Rebecca Wilson,Donna Hancock,Zachary Warner']",High
+253,Daniel Gonzalez,72,"['Sara Skinner,Andrea George,Julie Armstrong,Richard Baker']",Low
+254,Rachael Malone,49,"['Molly Morrison,Devon Lee,Erik Rivera,Francisco Hurst,Helen Collins,Daniel Phillips']",Low
+255,Daniel Hicks,103,"['Mark Wagner,Francisco Bridges,Carol Taylor,Patricia Glass,Sydney Rowe,Julie Molina,Russell Davidson,John Lindsey']",Medium
+256,Kevin Riddle,7,"['Thomas Davis,Donald Wilson,Rose Short']",Low
+257,Susan Ball,169,"['Thomas Barry,Michael Smith,Shelby Ward,Kevin Gonzalez,Dana Hatfield,Kenneth Dominguez,Sandra Anderson,Paul Best']",High
+258,James Gonzalez,108,"['James Gonzalez,Michelle Chapman,Andrea Cabrera,Christopher Lee,Melissa James,Chris Hendricks,Tyler Griffith,Walter Obrien,Ronald Alvarez,Phyllis Carpenter']",Low
+259,Savannah Stevenson,158,"['Curtis Castillo,Lindsay Shepard,John Duffy']",High
+260,Erica Henderson,52,"['Walter Smith,Joseph Mooney']",Medium
+261,Sheila Ramirez DDS,112,"['Jay Cruz,Angelica Salazar,Jennifer Torres,Stephanie Lawrence,Peter Tucker,Robert Howell,Janet Wiggins,Bradley Smith']",High
+262,Ashley Meyer,144,"['Jacob Thomas,Stacey Cox,Patrick Davies,Alexander Brown,Zachary Castillo,Rebecca Collins,Tyler Anderson,Amanda Smith']",High
+263,Kenneth Hernandez,124,"['James Lewis,Melanie Alexander,Benjamin Frazier,Laura Newman,Willie Hughes,Eric Young,Pamela Davis']",High
+264,Diana Gilbert,69,"['Joshua Decker,Kimberly Murray,Emily Frazier,Juan Hayes']",Low
+265,Heidi Fisher,66,"['Jeremiah Larson,Justin Pratt,Rebecca Williams,Donald Phillips,Kendra Chapman,James Davis,Phillip Gilmore,Brian Mccoy']",Low
+266,Dawn Solomon,113,"['Thomas Caldwell,Samuel Harris,Jacqueline Esparza DDS,Martha Schneider,Andrew Garrett,Matthew West,Timothy Walker,Lauren Clay']",Medium
+267,Dawn Parks,68,"['Derrick Miller,Jeffrey Mccarty,Jacqueline Orr,Cory Delacruz,Patricia Franco,Justin Hill']",Low
+268,Betty Lee,97,"['Joshua Caldwell,Brian Carey,Mr. Jeffrey Gardner,Luis Flores,Timothy Ford,Victoria Tran,Krystal Johnson,Danielle Price,Lindsey Cruz,Daniel Austin']",High
+269,Brittany Barnett,35,"['Jordan Mason,Kyle Rogers,Karen Brown,Amber Walker,Walter Rogers,Amanda Reid']",Medium
+270,Angela Black,155,"['Dr. Alison Williams,Carolyn Edwards,Justin Valenzuela,Zachary King,Megan Espinoza,Peter Dean,Jason Smith']",Low
+271,Katrina James,62,"['Courtney Jones,Claire Mccoy,Janet Burke,Destiny Middleton,Abigail Vargas']",High
+272,Lisa Williams,45,"['Samantha Fox,Lori Holt,Bethany Hill,Christopher Castro,Sheila Ballard,Eric Mueller,Tammy Lee,Amy Goodwin']",Low
+273,Pamela Martin,81,"['Becky Bender,Lynn Maxwell,David English,Laura Edwards']",Medium
+274,Kathleen Morrow,98,"['Derek Gardner,Kyle Haney']",Medium
+275,Craig Leon,163,"['Julie Wood,John Turner']",Medium
+276,Jessica Smith,170,"['Scott Mitchell,Lauren Miller']",High
+277,Pamela Patel,118,"['Elizabeth Ford,Cathy Chavez,Julie Medina,Michael Chavez,Hunter Khan']",High
+278,Angel Williams,23,"['Andrew Garcia,Anita Knox,Jacqueline Hogan,Logan Wang,Todd Chambers']",High
+279,Johnny Porter,42,"['Darlene Davila,Aaron Terrell,Joshua Mcclure,Elizabeth Compton,Alejandro Garcia,Jimmy Lawrence,Michael Payne']",Low
+280,Tiffany Webster,104,"['Michael Garcia,Amber English MD,Catherine Carlson,Rebecca Mcbride,Ellen Davis,Kathy Cook,Katherine Day,Cheryl Wiggins']",Low
+281,Michelle Huang,37,"['Ann White,Katelyn Smith,Joshua Medina,Joseph Turner,Nicole Anthony,Heidi Vasquez']",High
+282,Mr. Phillip Mills,61,"['Robin Jenkins,Jennifer Macdonald,Leah Chandler,Eric Palmer,Jason Howell,Aaron Graham,Jennifer Gaines,Teresa Taylor,Brianna Davis']",Low
+283,Phillip Williams,70,"['Jeffery Gaines MD,Alyssa Scott,Joshua Anderson,Angela Ward,Jason Rogers']",Low
+284,Elizabeth Jackson,73,"['Lisa Oneal,Kelly Stanley,Sarah Evans,Tiffany Reynolds,Christopher Anderson,Tiffany Warren']",Medium
+285,Lori Peterson,135,"['Lance Moore,Joshua West,Brian Johnson']",High
+286,Mrs. Anna Williams DDS,82,"['Megan Duncan,Andrea Willis,Teresa West,Jennifer Gill,Jennifer Smith']",Medium
+287,Justin Norris,120,"['Alyssa Best,Steven Turner,Ricky Prince,Robert Fleming,Robert Marshall,Dillon Clay']",Medium
+288,Kathryn Palmer,87,"['Kelsey Rodriguez,Charlotte Johnson,Jennifer Reyes,John Parsons,Frank Mack,Lori Harris,Amber Kline,Elizabeth Chavez,Michael Hanson']",Medium
+289,Madison Butler,57,"['Debra Kennedy,Brenda Long,Theresa Wright,Stephanie Martin,Melissa Sutton,Brittany Bentley,Nicholas Shea,Meghan James,Mark Warren']",Low
+290,Stephanie Hood,119,"['Catherine Carter,Brian Archer,Christine Reed,Peter Pratt,Alexandra Castillo,Tony Reynolds,Garrett Turner,Tiffany Larsen,Sharon Lawson,Alexis Turner']",Low
+291,Gerald Bell,166,"['Brian Keith,John Thompson,Lisa Rich,Mrs. Hannah Bass MD,Jesse Rivera']",High
+292,Emily Pittman,90,"['Jessica Jennings,Morgan Clark,Lindsay Lewis,Jessica Dodson,Jeremy Hernandez']",High
+293,Christine Pierce,159,"['Michael Lopez,Sean Kline,Kaitlin Harris']",Medium
+294,Robert Wilson,91,"['Joshua Wagner,Jeremy Carter']",Medium
+295,Bianca Bentley,73,"['Courtney Rodriguez,Wayne Morrison,Kimberly Harmon,Michael Beck,Felicia Hull,Martin Wolf,Nathan Smith,Anthony Peters,Lauren Carter']",Medium
+296,Dalton Phillips,131,"['Kevin Kelley,Douglas Craig,Lawrence Lindsey,David Smith,Michael Stevens,Charles Pace']",High
+297,John Leon,104,"['Robert Chen,Jose Myers,Carlos Dixon,Sabrina Smith,Abigail Watson,Edward David,Katherine Branch,Kevin Robertson,John Sellers']",Low
+298,Jessica Burns,139,"['Judy Castro DDS,Kerri Valenzuela,Melissa Myers,Nathan Rogers,Russell Smith,Eduardo Griffith']",Medium
+299,Patricia Payne,92,"['Tonya Brown,Caitlyn Howell,Elizabeth Fuentes,Brandon Hunter,Xavier Wall,Brianna Patel,Christine Finley MD,Rebecca Smith,Derrick Lambert,Matthew Ramirez']",Medium
+300,Mark Lin,9,"['Patrick Roman,Theresa Brown,Roberto Klein,Stephen Stevenson,Joel Campbell,Jessica Reed']",Low
+301,Dawn Benton,78,"['Kimberly Yu,Susan Berry,Andrew Jones']",Medium
+302,Christopher Johnson,15,"['Robert Brown,Elizabeth Garcia,Charles Torres,Nathan Brooks,Rebecca Lee']",Medium
+303,Lori Hunt,162,"['Jenna Munoz,Louis Schwartz,Judith Pennington,Lisa Hill,Mark Marks']",Medium
+304,Donna Pollard,45,"['James Foster,Andrea Butler,Daniel Gray,Jonathon Riley,Brandon Wilson']",Low
+305,Melanie Bradley,61,"['Kristin Hawkins,David Powell,Maria Bell,Dustin Bass Jr.']",Medium
+306,Jeremiah Hamilton,167,"['Cynthia Wright,Jared Brown,Thomas Nguyen,Daniel Long,Christopher Rodriguez,Shawn Wright,Tina Harper']",Low
+307,Robert Friedman,150,"['Juan Morris,Heather Green,Jennifer Curtis,Michele Nelson,Ryan Collins,Joseph Dennis,Jeremy Holland,Daniel Johnson,Mike Garcia']",Low
+308,Carrie Avery,68,"['Rachel Cox,David Kramer,Victoria Mccarthy']",Low
+309,Brandon Ramos,178,"['Natasha Mcdaniel,Heather Smith']",Medium
+310,Victor Wood,126,"['James Baker,Rachel Williams']",High
+311,Molly Williams,104,"['Brandon Torres,Joseph Boone MD,Kimberly Maxwell,Monica Oconnell,Michelle Huffman,Samantha Beck,Cynthia Taylor,Olivia Wright,Kathleen Evans,Carol Chandler']",High
+312,Lori Gonzalez,158,"['Andrew Carter,Heather Long,Mr. Stephen Edwards']",High
+313,Miguel Thompson,39,"['Kenneth Daniel,Brian Wilkerson,Joseph Powell']",High
+314,Christopher Guzman,173,"['Lisa Griffith,Katherine Brown,Robert Barker,Daniel Martinez,Henry Miller,Cheryl Bates']",Medium
+315,Kyle Lee,142,"['Melanie Lewis,Christy Lang,Marvin Walls,Justin Sanders,James Miller,Rachael Robertson,Brittney Jordan,Alexander Scott,Matthew Mcneil,Alicia Reynolds']",Medium
+316,Aaron Roberts,36,"['Ashley Clark,Thomas Zuniga']",Low
+317,Edgar Shepard,32,"['Kevin Kirk,Christopher Thomas,Philip Phillips']",Medium
+318,Patricia Hendricks,40,"['Donald Williams,Deborah Romero,Jason Rose']",Low
+319,Gregory Sanchez,138,"['Lydia Freeman,Jeffrey Sullivan,Amanda Park,Laura Lee,Joseph Frederick,Erik Glenn']",Medium
+320,Mary Greer,101,"['Jennifer Knapp MD,Travis Harrison,Kathryn Jensen,Donald Perez,Amanda Morgan,Robin Tran,Robert James,Thomas Weiss,Matthew Bailey']",Medium
+321,William Branch,80,"['Roger Williams,Seth Brown,Carlos Roberts,Shawn Dyer,Robert Johnson,John Kelly,Keith Wagner']",High
+322,Howard Mcdonald,139,"['Lauren Martin,Sandra Villanueva']",High
+323,Michael Rivera,142,"['Ronald Johnson,Michael Wolfe,Todd Stevens,Christopher Morgan,Samantha Wood,Michele Kane,Thomas Hall']",High
+324,Gary Sims,37,"['Nicholas Smith,James Skinner,John Delgado,Aaron Torres,David Snyder,Matthew Roman,Lindsey Sanchez,Brian Dixon,Megan Suarez,George Smith']",High
+325,Nicholas Martin,168,"['Christopher Arnold,Joseph Gardner,Daniel White,Spencer Turner']",High
+326,Nicholas Cowan,138,"['Helen Mcbride,Aaron Smith,Nicole Campbell,Bobby Rangel,Christopher Whitehead,Alexis Collins,Craig Bennett']",Low
+327,Marcus Stephens,100,"['Kendra Medina,Jerry Castillo,Timothy Alexander']",Low
+328,Joy Perez,140,"['Heather Garcia,Kelli Shelton']",Medium
+329,Michael Dougherty,39,"['Taylor Hobbs,Randy Haynes,Andrea Barton,Joseph Winters,Amanda Green,Kimberly Burgess,Linda Holloway']",High
+330,Dustin Ayala,6,"['Kenneth Moore,Charles Little,Brian Stevenson']",Medium
+331,Misty Reed,138,"['Michael Alexander,Jonathan Ferguson,James Johnson,Sara Chapman,Melissa Fuentes,Kimberly Gibbs,Sydney Williams,Keith May,Laurie Miller,Michelle Guerrero']",Low
+332,Thomas Garcia,30,"['Shawn Barnett,Michael Robertson']",High
+333,Ernest Smith,69,"['Ryan Holland,Ronald Anderson,Andre Robbins,Heather Jackson']",Medium
+334,Caleb Mcdowell,128,"['Michelle Briggs,Patricia Wang,Anthony Walker,Catherine Sawyer']",Low
+335,Matthew Terrell,136,"['Eddie Weaver,Dustin Wong,Laurie Jackson PhD,Catherine Clements,Gina West']",High
+336,Lisa Lee,9,"['Jenny Bird,Cynthia Bailey,Tina Hall,Mary Lynch,Mark Clark,Laura Mays,Kevin Jones']",Low
+337,Brian King,76,"['Jacqueline Ellis,Andres Lawson,Joshua Lane']",Low
+338,Eugene Johnson,83,"['Courtney Gibson,Micheal Jones,Brandi Johnson,Nicole Hall,Susan Bennett,Cody Perkins']",Low
+339,Ryan Frey,167,"['Rebecca Jackson,Thomas Wright,Christine Campbell']",Medium
+340,Cynthia Rhodes,131,"['Scott Newton,James Williams,Barbara Rasmussen,Lindsay Hooper MD,Lisa Parker,Keith Miller,Christopher Juarez,Ryan Johnson,Robert Young,Jessica Ramsey']",Medium
+341,Alyssa Randolph,108,"['Heather Herrera,Samantha Thompson,Jill Brady,Susan Price']",Medium
+342,George Irwin,98,"['Eric Mcmillan,John Adams,Jaime Rodriguez']",Medium
+343,Jason Fisher,121,"['Austin Gordon,Linda Brown,Alexis Perez,Nicole Reed,Jessica Garner']",Medium
+344,Mr. Brandon King,113,"['Calvin Crawford,Jean White,Michael Sutton,Melissa Velasquez,Judy Hines,Matthew Arnold,Jason Stevenson,Dr. Jeremy Nguyen']",Medium
+345,Darlene Hahn,35,"['Mark Livingston,Amy Lynch,Caroline Adams,Michael Lyons,Denise Johnson,Adriana Hart,Tracy Patel,Kristin Bell,Diana Cardenas']",Medium
+346,Brianna Conner,31,"['Samantha Kaufman,Julia Dougherty,Ryan Hill']",Low
+347,Brittney Turner,116,"['Terry Coffey,Adam Reynolds,Anthony Rivera,James Cole']",Medium
+348,Rita Rivera,24,"['Donna Brown,Natalie Dean,Jacob Blair,Stephanie Miller,Ann Taylor,Stephanie Weaver']",Medium
+349,Sharon Richardson,58,"['Monica Williams,Melissa Moore']",High
+350,Beth Sanders,163,"['Monica Farmer,Carla Lyons,Megan Floyd DVM,Marissa Hart,Thomas Valdez,Brandon Freeman']",Low
+351,Alejandro Jones,38,"['David Lewis,Erin Jones,Kayla Saunders']",High
+352,Shirley Stevens,100,"['Susan Foster,Jennifer Rodgers,Katherine Ryan,Ashley Barron,Melissa Ortiz,Austin Hughes,Crystal Patterson,Bonnie Robinson']",Low
+353,Melody Jacobs,28,"['Sandra Potter,Michael White,Cynthia Curtis']",Medium
+354,Haley Garrett,98,"['James Conway,Jeff Gonzales,Miguel Gonzalez']",High
+355,Derrick Harrington,99,"['Gregory Henderson,Erika Charles,Anthony Evans,Chris Paul,Elizabeth Padilla,Matthew Dunn,Nancy Sweeney,Adam Franklin,Sue Steele']",Low
+356,Kevin Wright,69,"['Daniel Miller,William Rasmussen']",High
+357,Daniel Adams,33,"['Julia Murphy,Caitlin Garrett,Stephen Green,Amy Long,James Townsend,James Bowen']",Medium
+358,Angel George,36,"['Kyle Wright,Jeffrey Watson,Karen Montgomery,Erika Miller DVM,Robert Williams,Aaron Bender,Sheila Hernandez,Frank Tran']",Low
+359,Danielle Perry,138,"['Charlene Golden,Glenn Powell,Mr. Dave Ramirez,Paula Bullock']",Medium
+360,James Walters,76,"['Kimberly Smith DDS,Samantha Newton,Nicholas Shaw,Danny Hensley,Karen Hull']",Low
+361,Michael Norris,38,"['Michaela Paul,Elizabeth Jackson,Johnny Wagner,Andrea Lopez,Dale Ross,Steven Walker,Michelle Reyes,Aaron Oliver,John Garza,Roy Long']",Low
+362,David Murphy,134,"['Carl Griffin,Ryan Hernandez,Brian Patterson,Kristin Rhodes,John Bond,Brooke Long,Teresa Wilson,Sharon Alvarez,Nancy Austin']",High
+363,Martin Mejia,146,"['Michael Gomez,Robert Pierce,Sherry Mack,Robert Pineda']",Medium
+364,Steven Glover,155,"['Beth Lopez,Ms. Belinda Cruz DDS,Derek Blair,Tristan James']",High
+365,Lori Coleman,154,"['Valerie Mann,Anna Barber,Edward Cook,Benjamin Jackson,Patricia Lyons,Adam Martin']",Low
+366,Catherine Nelson,36,"['Ruth Walker,Amy Patterson,Kristin Carter,Jaime Gomez,Laura Bridges']",High
+367,Jocelyn Russell,110,"['Kayla Martin,Melinda Chang']",High
+368,Ralph Arellano,40,"['Andre Sanders,Tyler Foster,Cindy Jones,George Mcdonald,Terri Rivera,Timothy Randall']",Medium
+369,Cathy Odonnell,147,"['Jacob Walker,Micheal Silva,Maria Weber']",High
+370,Maria Macias,27,"['Jennifer Cooper,Scott Thomas,Zachary Waters,Derek Briggs,Beverly Johnston,Jeffrey Willis,Hannah Frey,Mrs. Angela Mendez,Tyler Mendez,Anita Jones']",Low
+371,Rebekah Graves,14,"['Samantha Valdez,Megan Smith,Amy Wu,Tracey Cherry,Natalie Rice,Katie Dunn,Heather Rodriguez']",Medium
+372,Robert Taylor,164,"['Timothy Morse,Cameron Williams']",Low
+373,Danielle Wolf,81,"['Holly Wang,Carol Richards,Jennifer Oconnor,Alison Ramirez DVM,Nathan Smith']",Medium
+374,Jason Jackson,33,"['Diane Johnson,Megan Robertson,Rachel Swanson PhD,Catherine Mooney,Valerie Clark']",Low
+375,Amanda Joseph,106,"['Roy Wilson,Robert Bush,Tonya Washington,Devin Cohen,Pamela Matthews,Kyle Howell MD,Keith Martinez']",Medium
+376,Crystal Anderson,31,"['Ashley Little,Shaun Byrd,Linda Hurst']",Low
+377,Melissa Hampton,45,"['Kyle Stephens,Heather Turner,Joshua Beard']",High
+378,Linda Francis,109,"['Robert Medina,Jesse Tate,Thomas Coleman,David Cooper,Cody Newman,Robin Krause']",High
+379,Brandon Martin,68,"['Denise Graham,Amy Harrison,Meghan Peters,Alexander Wise']",Medium
+380,Erika Pitts,113,"['Candace Dodson,Nancy Woods,Brittney Santiago,John Reyes,Cheryl Lynn,Carla Robinson,Joshua Valencia,Dr. Jennifer Harris']",High
+381,David Burgess,110,"['Gary Reid,Michael Lewis,Jessica Berg']",Low
+382,Alicia Peterson,40,"['Aaron Lawson,Kristopher Gonzalez,Jeremiah Ortiz,Daniel Dixon,Brianna Smith,Juan Sparks,Nicholas Rivera']",High
+383,Angelica Hernandez,5,"['David Jones,Terri Walker,Donald Beasley,Monica Gonzalez,Kevin Carter']",Low
+384,Ashley Myers,127,"['Shelly Brown,Mr. Anthony Ramos,Andrew Lawrence,Roy Bailey,Gregory Sanchez,Adam Frederick,Marvin Smith,Tiffany Beasley']",Low
+385,Charles Diaz,20,"['Richard Rivera,Sarah Smith']",Low
+386,Michele Duncan,15,"['Michael Singleton,Patricia Tucker']",Low
+387,Michael Atkinson DVM,16,"['James Tucker,Jessica Reed,Tony Ramirez']",High
+388,William Hawkins,166,"['Bryce Jones,Jack Caldwell,Michelle Edwards,Daniel Rodriguez,Evan Burke,Paul Moon,Amanda Garcia,Kevin Sanchez']",Medium
+389,Mrs. Leah Johnson,78,"['Karen Smith,Mrs. Alyssa Aguilar,Rachel Hudson']",Medium
+390,Michael Clark,54,"['Monica Scott,Tiffany Robinson']",High
+391,Richard Davis,44,"['Kevin Lawson,Grant Dixon,Jessica Smith,Beverly Coffey,Daniel Rice']",Medium
+392,Peter Jackson,35,"['Michael Gomez,Lance Moore,Krystal Mitchell,Sydney Burke']",High
+393,Maria Becker,114,"['Nicholas Reilly,Joseph Elliott,Julia Wolf,Austin Vaughan,Jennifer Brewer,James Beasley,Brian Ramos,Crystal Collier,Dawn Sullivan']",Medium
+394,Roy Bishop,153,"['Yvonne Cooper,Jared Bird,James Patel,Virginia Brown,Philip Briggs,Stephanie Drake,Deborah Andrews,Sheila Tucker,Dorothy Wolf,Vincent Edwards']",High
+395,Ronald Moss,14,"['Sarah Flores,Frederick Knapp']",Medium
+396,Andrew Hale,171,"['Angela Massey,Steven Lopez,Nicole Mason,Karl Hall,Kevin Martinez,Robyn Gonzalez']",High
+397,Stephanie Holland,81,"['Teresa Hernandez,Carol Stewart,James Ware,Alfred Hines,Jessica King,Cameron Levy,Vanessa Frank,Angela Gilmore,Ruth Robinson,Erin Randall']",High
+398,Troy Snyder,98,"['Claudia Walker,Christine Pierce']",Medium
+399,Kyle Adams,96,"['Mary Williams,Bonnie Mueller,Alan Jackson,Victoria Gomez,Susan Reyes']",Low
+400,Cindy Myers,92,"['Trevor Barton,Thomas Thornton,Joseph Coleman,Jerry Lopez,David Moore,Jennifer Kaiser,Robert Meyers MD,Travis Estrada']",High
+401,Matthew Jones,10,"['Kathleen Jones,James George,Amanda Thompson,Charles Mckinney,Mary Adams,Rachel Powell,Justin Beck,Crystal Lopez']",Medium
+402,Shannon Rodriguez,70,"['William Taylor,Chase Hernandez,John Barnes,Evan Bowen,Michael Smith,Lisa Quinn,Theresa Brown']",Low
+403,Kim Carr,93,"['Anthony Walker,Amanda Barnett,Manuel Boyd,Jason Sanchez,Steven Peterson']",High
+404,Tiffany Anderson,34,"['Henry Banks,Mario Adams,Theresa Smith']",Low
+405,James Smith DDS,176,"['Jeremy Hughes,Andrew Garcia,Ronald Rivera,April Cook,Daniel Montoya,Dr. Aaron Waller']",High
+406,William Robinson,27,"['Cory Weber,Lauren Peterson']",High
+407,Michelle Smith,66,"['Samantha Bowers,Anna Smith,Andrew Freeman,Richard French,Gary Williamson,Jessica Sanford,Michelle Miller,Duane Torres,Glenn James']",Low
+408,Jacob Schaefer,36,"['Franklin Weeks,Anna Francis']",High
+409,James Romero,43,"['Kelly Gordon,Clinton Gonzalez,Adam Allen,Steven Hughes,Sherry Sanchez']",Low
+410,Adrian Phillips,155,"['Robert Green,Christina Garcia,Preston Smith']",Low
+411,Chad Garcia,44,"['Robin Santiago,Robin Anderson,Sean Mcgee,David Harrison,Monica Campbell']",Low
+412,Bradley Phillips,31,"['Donald Suarez,Denise Cooper,Cynthia Rojas,Christina Johnson,Brittney Oliver']",High
+413,Renee Ashley,88,"['James Smith,Heather Bennett,James Booth,Raymond Salas,Jessica Saunders,Veronica Pineda,Linda Robinson,Madeline Brown,Patrick Daugherty']",Low
+414,Steven Mills,78,"['Sandy Juarez,Amy Fry,Kim Simon,Edward Orr']",High
+415,Kelly Francis,7,"['Anthony Villegas,Justin Conley,Jack Rivas,Mary Stanley,Kyle Fritz Jr.,Shannon Williams,Connie Gonzalez']",Low
+416,Robert Hester,153,"['Eric Moore,Tammy Santiago']",Low
+417,Shawn Pittman,46,"['Christina Snyder,Nicole Rogers,Douglas Sanchez,April Padilla,Cheryl Cameron,Donald Scott,Angela Wolf,Brandy Johns']",High
+418,James Garcia,83,"['Corey Gould,Kevin Blake,Nicole Richard,Connie Gomez']",Medium
+419,Erin Elliott MD,89,"['Daniel Lopez,Anthony Green,Deanna Zimmerman,Christian Clayton,Kevin Medina,Stephanie Davis']",Low
+420,Caleb Ellison,171,"['Cynthia James,Kelsey Marshall,Christina Ortega']",High
+421,Crystal Smith,168,"['Mark Valdez,Shane Perkins,Julie Turner,Jody Alvarez,Melissa Powers,Christine Floyd,Brad Hurst Jr.,Jeffrey Greer,Dana Wright,Christina Jensen']",Low
+422,Angela Jones,49,"['Bradley Tapia,Michael Curry,Eric Campbell,Rachel Moore']",High
+423,Mark Green,66,"['Chelsea Gardner,Chad Hicks,Joseph Johnson,Alexandra Scott,Harry Henderson DDS']",Medium
+424,Manuel Mack,127,"['James Adams,Robert Delacruz,Veronica Steele,Andrew Leblanc,Jennifer Hill,Deborah Ferrell,Robert May,Karen Baker']",High
+425,Michele Rojas,35,"['Alexis Gould,Nicole Palmer,Judith Frederick,Matthew Snyder,James Rubio']",Medium
+426,Edward Robertson,135,"['Andrew Campbell,Erin Atkinson,Michelle Pham,Sandy Cooper,Jocelyn Butler,Kristen Mcgee,Catherine Garza,Barbara Evans']",Low
+427,Robin Park,171,"['Patricia Lloyd,James Robinson,Ethan Walker,Michael Sanchez,Jennifer Williamson']",Medium
+428,Susan Buck,20,"['Heather Hart,Ann Prince,Robert Rodriguez,Erica Moody,Linda Clay,Steven Campbell,Andrew Pineda,Joan Roberson,Christopher Bryant']",High
+429,Randy Phillips,119,"['William Garcia,Heather Armstrong']",Low
+430,Teresa Reese,96,"['Alyssa Williams,Melissa Price']",Low
+431,Dale Nelson,94,"['Sara Blevins,Ashley Smith']",Medium
+432,Amanda Cook,78,"['William Woods,Sarah Jones,Tina Smith,Angela Saunders,Matthew Hill,Bianca Mcdonald,Jessica Fry']",Low
+433,Mandy Weiss,153,"['Sandra Hardy,Jeffrey Schneider,Tanya Rivas,Samantha Quinn,Stephanie Coleman,Jenny Moore']",Low
+434,Elizabeth Harvey,29,"['Alisha Robinson,Colton Rose,Daniel Clark PhD']",Low
+435,James Perry,52,"['Craig Proctor,Nancy Daugherty,David Brown,Brittany Carr DDS,Julia Jones,Luis Carlson,Jeffrey May,Jennifer Lin']",High
+436,Jeremy Lane,124,"['Kathleen Simon,Margaret Adams,Destiny Morris,Adam Adams,Christopher Woods,Samuel Duncan,Gregory Cox,John Davis,Nicole Cohen']",High
+437,Ashley Gill,85,"['Stephen Hooper,Charles Cole,Christopher King,Michael Young']",High
+438,Alexander Mcfarland,85,"['Miss Roberta Smith,Brandon Fernandez,Christopher Thomas']",Low
+439,Eric Martinez,123,"['Lonnie Gray,Kathryn Tapia,Jennifer Murphy,Mary Bryant,Samantha Craig,Laura Becker,Laura Edwards,Mark Rice']",High
+440,Patrick Vargas,132,"['Max Lowery,Timothy Rodriguez,Johnny Hawkins,Joseph Cruz,Sonia Bowman,Kimberly Wallace,Kelly Lewis,Diana Romero']",High
+441,Laurie Johnson,106,"['Christy Cabrera,Allison Williams,Stephanie Doyle']",Medium
+442,Dana Mathis,8,"['David Kennedy,Vanessa Campos,Catherine Richardson']",Medium
+443,Madison Friedman,158,"['Carrie Strickland,Shannon Phillips']",Medium
+444,Geoffrey Benson,93,"['Ryan Barr,Jennifer Gray,James Spencer,Bethany Hernandez,Keith Wiley']",Medium
+445,Brian Hoffman,85,"['Joshua Montgomery,Heather Mcclure,Anna Hughes,William Martinez,Gabriella Dean,Samuel Mueller,Gwendolyn Garcia,Sarah Martinez']",Medium
+446,Sabrina Vasquez,44,"['Alicia Wilson,Paul Crawford,Mike Howard,Ricky Olsen,Sarah Robertson,David Henderson,Juan Hayes']",Medium
+447,Laura Barnes,42,"['Brian Peterson,Matthew Hopkins,Joshua Adams,Tracy Marquez,Randy Davis,Douglas Hurley,Dawn Garcia,Chelsea Russell,Joseph Gallagher']",Medium
+448,Joanna Stevens,101,"['Christopher Walker,Keith Frederick,Dr. Patrick Ruiz,Michelle Keller,Mark Holmes,Nicole Cummings']",Medium
+449,Michael Moody,154,"['Sharon Bradley,Teresa Joseph,Danielle Brown,Jonathon Garcia,Lori Webb,Sean Nguyen,Diamond Jensen,Tamara Melendez,Rhonda Scott,Jennifer Lopez']",Low
+450,Laura Wood,29,"['Victoria Smith,Michelle Steele,Kelsey Velazquez,Melanie Hall,Victoria Ruiz,Jack Moss,Sara George']",High
+451,Amy Terrell,56,"['Sherry Walker,Travis Carlson']",Medium
+452,Thomas Chase,44,"['Devin Richardson,Gerald Simmons,Charlene King,Dana Grant,Jonathan Walsh']",Low
+453,Robert Howard,178,"['Alexandra Howard,Tonya Hartman,Jacqueline Li,Craig Roberson']",Medium
+454,Brian Norton,7,"['Thomas Wolfe,Justin Bauer,Paula Rodriguez,Paul Blackwell,Sheri Hill,Samantha Young']",Medium
+455,Pamela Hernandez,144,"['Lee Collins,James Calhoun']",Low
+456,Julie Cruz,39,"['Tony Sanders,David Stevens,Curtis Barton,Todd Mitchell,Marie Jones,Mr. Eric Mejia Jr.']",Low
+457,John Wallace,61,"['Elizabeth Proctor,Donald Kim,Jessica Soto,Nicholas Williams,Stacy Freeman,Vanessa White']",Medium
+458,Amy King,120,"['Johnathan Smith,Mrs. Sharon Reynolds,John Goodman']",Medium
+459,Pamela Reed,160,"['Sarah Garcia,Jimmy Ortega,Jessica Franklin']",Medium
+460,Laura Smith,108,"['Nancy Dennis,Jessica Salinas,Katrina Cordova,Adam Rice']",Low
+461,Kristen Martinez,40,"['Sherri Fuller,Stephen Kelly,Scott Blackwell']",High
+462,James Palmer,137,"['Sherry Campbell,Troy Bennett,Willie Price,Michael Stokes,Jason Vasquez,James Gillespie,Janice Johnson,Tracy Harris,Eddie White,Hannah Hall']",High
+463,John Perez,81,"['Angela Gregory,Jennifer Stewart,Justin Mejia,Edward Gomez,Ms. Sherri Lopez MD,Sean Wright,Benjamin Ferguson,Walter Wright,Andrew Ryan,Michael Edwards']",Medium
+464,Brooke Townsend,106,"['Cody Williams,Christopher James,Alexa Novak,Robert Daugherty,Andrea Wallace,Katie Santos,Curtis Odonnell,Mark Grant,Amber Miller,Virginia Robinson']",High
+465,Claudia Lewis,170,"['Cory Mendoza,Dr. Carl Frost DDS,Monica Hill,Crystal Small,Lisa Hicks,Caitlyn Thomas,Chad Singh,Nichole Hodge,Taylor Jones,Michael Williams']",High
+466,Anna Moore,92,"['Joseph Jones,Kelly Thornton,Zachary Wright,Nicole Silva,Chelsea Wong,Courtney Kelly']",Low
+467,Joshua Henson,113,"['Catherine Williams,Shaun Allen,Mr. Andrew Simmons MD']",Low
+468,Dr. Barbara Simon,45,"['Connie Thomas,Raven Turner,Jennifer Osborne,Amanda Carpenter,Justin Escobar,Mary Green,Karen Reid,Erik Bowman,Rebecca Harrison,Allison Brown']",High
+469,Geoffrey Carter,105,"['Matthew Hunter,Kim Shaffer,Norma Escobar MD,April Potter,John Adams']",High
+470,Cole Thompson,81,"['Kenneth Valdez,Chelsea Frye,Ryan Greene']",Medium
+471,Mr. Matthew Donovan,126,"['Gregory Huerta,Jacob Knox,Brandy Garcia,Travis Kramer,Sean Hunter,Bethany Blake,William Brown,Tracey Morton']",Medium
+472,Gregory Jones,77,"['Gloria Soto,Kelly Smith,Kevin Johnson']",Low
+473,Aaron Davis,127,"['Stacey Watson,Brooke Sparks,Marie Collins DDS,Todd Diaz,Todd Smith,Daniel Shaw,Michelle Allen DVM,Tammy Dunlap,Patrick Barrett,Timothy Bell']",Low
+474,Taylor Hernandez,180,"['Mackenzie Marshall,Christopher Reeves,Stacey Cruz,Timothy Gonzalez,Adam Smith,Abigail Santos,David Lopez,Kurt Mcdonald,Mark Bailey,Michael Leonard']",Medium
+475,Scott Thomas,128,"['Ryan Pope,Renee Green,Krista Pierce PhD,Chad Ryan,Kathryn Brown,Anna Christensen']",Low
+476,Amanda Ryan,9,"['Becky Garza,Todd Medina,Madison Roth']",Low
+477,Kimberly Gonzalez,24,"['Jason Ayala,Nicole Parks,David Thompson,Erin Ortega,Holly Russo,Roberta Winters,Aaron Solis,Joshua Pitts']",High
+478,John Santiago,45,"['Shelby Perez,Ryan Ali,David Palmer,Deborah Reynolds,Joseph Stout,Thomas Sanchez']",Low
+479,Thomas Gonzalez,61,"['Justin Lewis,Casey Murphy IV,David Fuller']",High
+480,Michael Henry,5,"['Peter Howard,Dawn Williams,Marissa Johnson,Michele Munoz,Natalie Shaw,Matthew Wilkins']",Low
+481,Jason Wu,16,"['Kevin Clark,Connor Ryan,Abigail Cardenas,David Townsend']",High
+482,Collin Hays,48,"['Kristie Weaver,Jason Barron,John James,Raymond Riddle,Elizabeth Elliott,Alexander Taylor']",Low
+483,Jane Young,103,"['Mrs. Rachel Sanders,Sara Burns,Amanda Williamson,Ricky Simpson,Elijah Taylor,Elizabeth Wyatt,Kathleen Bailey,Jason Fitzpatrick,Michelle King,Phillip Zhang MD']",Medium
+484,Samuel Kennedy,119,"['Melissa Rojas,Linda Buckley,Emily Bryant,Marisa Miller,Nathaniel Edwards']",High
+485,Gail Fuentes,120,"['Nicholas Evans,Kenneth Avery,Shannon Duncan,Johnathan Anderson,Kenneth Crawford']",Low
+486,Terry Hunter,89,"['Ryan Martin,Jessica Crawford,Jennifer Rodriguez,Amanda Levine,Mary Gonzalez,Charles Davidson']",Medium
+487,Ashley Brewer,44,"['Christina Wilson,Kristin Ayala,Lisa Watson,Megan Diaz,Bryan Miles,Curtis Cooper,Dawn Brown,Johnathan Hudson']",Low
+488,James Curry,105,"['Stacey Torres,Emily Adams,Stephen Bush,Lindsay Frey,Kristina Ellis']",Low
+489,Monique Haynes,126,"['Laurie Lee,Gavin Lopez']",Low
+490,Christian Kelley,138,"['Amber Mcdonald,Cody Gonzalez,Alexis Foster,Randall Cooper,Jacob Phillips Jr.,Laura Diaz,Eric Lane,Christopher Cross,Daniel Hernandez']",High
+491,Catherine Sanchez,145,"['Travis Garcia,Alexis Goodwin,Michael Price,Carrie Moreno']",Medium
+492,Courtney Ramirez,172,"['Deborah Hammond,Justin Hall,Alexander Crosby,Brendan Reid,Gwendolyn Young,Michael Hughes,William Hernandez,Jennifer Charles']",Low
+493,Vicki Harding,68,"['Laura Morris,Jessica Henson,Jack Kelly,Chris Woods,Jenna Jones']",High
+494,Nicholas Powell,112,"['Gerald Griffith,Kathy Owens']",Low
+495,Tyler Dougherty,82,"['Valerie Lopez,Ariel Ramirez,Amanda Alvarez,Katherine Hays']",High
+496,Ricky Sanford,177,"['Thomas Webb,Shannon Dillon,Gary Smith']",Medium
+497,Desiree Sparks,62,"['Shawn Buchanan,Mr. Henry Wilson DDS']",Low
+498,Cristina Hanson,168,"['Eric Russell,Andrew Gardner,Pamela Bennett,Mr. Nicholas Taylor,Kenneth Owens,Troy Phelps,David Scott,Christina Novak,Ms. Taylor Castro']",High
+499,Jessica Brown,70,"['Tamara Merritt PhD,Kimberly Padilla,Eddie Hawkins,Calvin Dougherty,Alexandra Campbell']",Low
+500,John Perez,101,"['Carol Ramirez,Dakota Allen,Jamie Carrillo,Heather Flowers,Nancy Day,Jocelyn Ballard']",Low
+501,Adam Costa,173,"['Joseph Padilla,Richard Norton,Jeffrey Reed,Karen Taylor,Johnny Cross']",Low
+502,Rachel Yates,99,"['Jerry Scott,Heather Russo,Ryan Stewart,Michael Rodriguez,Michael Hernandez,Benjamin Neal,David Estrada,Eric Waller,Nicholas Leon,Renee Rodriguez']",Low
+503,Heather Chen,45,"['Anthony Collins,Phillip Nguyen']",Medium
+504,Dustin Stone,33,"['Lisa Miller,Janet Johns,Kristin Pineda DDS,Sharon Price,Scott Rios']",High
+505,Alexander Villa,139,"['Joshua Horton,Morgan Chase,Jessica Brown']",High
+506,Matthew Buchanan,39,"['Timothy Ortiz,Jean Moreno,Stephanie Colon']",Low
+507,Elizabeth Duffy,28,"['Dawn Berg,Anna Martinez,Sharon Cox,Dana Hill']",Low
+508,Joshua Hamilton,66,"['Christine Thomas,Mr. Paul Jenkins PhD']",High
+509,Brandon Brown,108,"['David Hughes,Richard Davis DVM,Michelle Graham,Susan Kim,Darren Hunter,Gina May']",Low
+510,Wayne Patel,153,"['Sean Lee,Debra Clark,Emily Carter,Bethany Mills,Christopher Moore,Gary Sanders,Angela Decker']",Medium
+511,Charles Weaver,53,"['Christopher Trevino,Kristen Mckinney,Susan Gonzalez,Rachel Flores,Joann Coleman,Dustin Ballard,Melissa Edwards,Heather Brown,Andrew Sanchez,Kathy Huffman']",Low
+512,Justin Martinez,102,"['Ryan Williams,April Jones,Stuart Stewart,Julie Richards,Edward Jones,Michael Baker,Rebecca Gonzalez,Anthony Roberts,Patrick Townsend,Jennifer Chapman']",Medium
+513,Margaret Bishop,166,"['Patrick Callahan,Elizabeth Sosa,Emily Estrada,Leslie Hess']",High
+514,Sharon Velez,122,"['Shelly Ingram,Marcus Stevens,Stephanie Fox,Erica Hart,Aaron Jordan,Dennis Love,Christopher Deleon,Jesse Taylor,Shane Brown']",Medium
+515,Mr. Henry Ramirez,80,"['Michael Fuller,Isaac Nelson,Keith Lopez,Ronnie Lee,Donna Harrison,Lisa Williams,Dylan Jones,Jennifer Warren,Christopher Buck']",Medium
+516,Jared Gross,62,"['Tanya Carson,Karen Murray,Kathy Obrien,Andrew Griffith,Cheryl Weiss']",Low
+517,Kristopher Briggs,29,"['Margaret Branch,Deborah Day,James Powell,Raven Wood,Christopher Hernandez,Janet Parsons,Sandra Reyes']",Low
+518,Jamie Perez,38,"['Anthony Knapp,Jeffrey King,Mrs. Rhonda Warren,Todd Whitehead,Thomas Cole,Richard Hernandez,John Williamson,John Turner,Cheryl Johnson,Pamela Hammond']",High
+519,James Webb,68,"['Michael Snyder,Lisa Richards,Kathryn Hooper,John Bailey']",High
+520,Amanda Shelton,51,"['Joel Garcia,John Dunn,Desiree Ward,Lance Sanders,Christy Williams,Kenneth Davis,Stephanie Dominguez,Bruce Briggs']",High
+521,Crystal Ellis,139,"['Jennifer Cuevas DVM,Barbara Alexander,Matthew Wall']",Low
+522,Jodi Herring,35,"['Jodi Norris,Matthew Frost,Glenn Charles,Dawn Haynes,Joshua Carter,Theresa Hart,Amber Hanson,Kimberly King']",High
+523,Jeremy Kaiser,44,"['Mary Walls,Robert Kim,Cody Rose,Michael Leon,Tanya Ibarra,Ashley Morales,Cameron Schmitt,Tara Mckenzie,Laurie Cunningham']",High
+524,Debbie Nelson,129,"['Juan Garcia,Xavier Murillo,Eric Schneider,Tiffany Washington']",High
+525,Karen Proctor,158,"['Melody Chen,Rachel Garza,Julia Holmes,Morgan Mcneil,Emily Howe,Heather Fields,Jamie Price,Megan Baird,Richard Boyd']",Low
+526,Daniel Wade,58,"['David Tate,Jacob Fry']",High
+527,Andrea Melendez,24,"['Steven Rodriguez,Joshua Klein']",High
+528,Corey Wheeler,134,"['Erin Butler,Debra Jenkins,Amber Matthews,Anthony Todd,Billy Jones,Rachel Espinoza,Heidi Evans']",High
+529,Tammy Rush,46,"['Michael Scott,Natasha Green,Ms. Tracy Mitchell,Isaac Hansen,Billy Hendricks,Sue Jimenez']",Low
+530,Maria Franco,19,"['Sheryl Graham PhD,Samuel King,Frank Gonzalez,Roberta Stark,James Mora']",Medium
+531,Danielle Price,70,"['Susan Mccoy,Ashley Farmer,Anthony Rodriguez,Jon Hall,Joseph Wells,Gregory Harris']",Low
+532,Kathleen Brennan,36,"['Janice Harvey,Brian Davis,William Jordan,Wendy Collins,Jose Lopez,Derrick Douglas']",Low
+533,Billy Jones,108,"['Shawn Brandt,Jason Sullivan,Jacob Brown,Jesse Mckee,Samantha Murray,Meghan Bradshaw,Anthony Thompson,Willie Howard,Jason Mitchell,Frederick Kelly']",High
+534,Justin Palmer,116,"['John Martin,Allison Mack,Tyler Henderson,Jordan Lopez,Stephanie Brady,Katrina Davis,Alexander Lee,Douglas Martin,Lucas Hill']",Medium
+535,Todd Nguyen,152,"['Monica Davis,Timothy Long,Joshua Hanson,Robert Stewart,Trevor Gonzalez,Alexis Sanchez,Mrs. Barbara Clark,Michelle Moore,Tara Whitaker,Lisa Bennett']",Low
+536,Tiffany Mcdonald,125,"['Megan Carlson,Luis Espinoza,Diane Mullen,Nicholas Gray,Robert Mitchell,Gregory Jordan,Tina Rivas,Eric Shaw,Ethan Hartman,Tiffany Cox']",Medium
+537,Douglas Herrera,60,"['Joseph Mckinney,William Knapp,Emma Sutton']",High
+538,John Zuniga,34,"['Cheryl Smith,Maurice May,Danny Cruz,Lauren Hood,Justin Shaw,Caitlin Andrews,Steven Dyer,Mitchell Long,Robert Ross,Cole Carson']",Low
+539,Eric Myers,96,"['Krista Sanchez,Michael Mendoza,Parker Pineda']",Low
+540,Margaret Murphy,171,"['Maria Melendez,Daniel Brown,Randy Jones,Julia Ware,Christine Potter,John Turner,Randy Mendez']",Medium
+541,Matthew James,104,"['Patricia Oliver,Diana Crawford,Norman Wilson,Abigail Barton,Nicole Holland,Samuel Brown,Andrew Schaefer']",Medium
+542,Stephanie Cunningham,155,"['Christina Leonard,Wendy Weiss,Darlene Logan,Marco Kelly,Veronica Lopez,Ronald Massey,Erin Duffy,Richard Mckay,Jacob Berg,Caitlin Vasquez']",High
+543,Teresa Key,157,"['Paula Stewart DDS,Matthew Jackson,Steven Moran,Loretta Larsen']",Low
+544,Crystal Miranda,143,"['Jodi Turner,James Schmidt DVM,Heather Butler,Kimberly Bartlett,Christopher Sullivan,Samuel Gibson,Lisa Fox,Jeffrey Ramirez']",Low
+545,Michelle Williams,156,"['Anita Phillips,Kerry Cook,Duane Bennett,Joshua Santana,Gregory Sexton PhD,Charles Logan,Marie Kennedy']",Medium
+546,Amber Burke,143,"['Michelle Cline,Amber Anderson,Jeffrey Carter,Sharon Padilla']",Medium
+547,Lance Baker,154,"['Jordan Edwards,Megan Sexton,Matthew Little DDS,Kari Johnson,Bonnie Spencer,Donna Wagner,Sabrina Stewart']",Low
+548,Andrew Rush,37,"['Jennifer Carter,Karen Dunn,Corey Brown,Katrina Bradley,Charles Bautista,Laura Baker,Shawn Ayala']",Medium
+549,Bradley Harvey,170,"['Logan Hammond,Adrian Rogers,Kathy Daniel,Robert Collins,Sharon Jenkins,Samantha Carpenter,Regina Brown']",Low
+550,Tracy Bender,131,"['Melinda Torres,Rachel Ward,Diamond Mcguire,Oscar Medina,Vincent Anderson']",High
+551,Mark Erickson,91,"['Alison Richardson,Meghan Torres,Justin Terry']",Medium
+552,Kristen Lee,15,"['David Armstrong,Patrick Phillips']",Medium
+553,David Quinn MD,95,"['Morgan Lang,Tammy Duncan,James Young,Mary Johnson,Eric Calderon,Robin Fischer,Aaron Graves,Sarah Fowler,Katherine Terrell,Whitney Stone']",High
+554,Kevin Soto,56,"['Sarah Lee,Amber Vaughan,Edward Merritt']",Low
+555,Laura Jacobs MD,124,"['Ann Jones,Paul Simpson,Brian Hanna,Jacob Bowman,Shirley Duffy,Shannon Ellison,Robert Long,Karen Sanford']",Low
+556,Marie York,53,"['Philip Scott,Ashley Lane']",Medium
+557,Craig Smith DDS,39,"['Kristin Allen,Chris Wilson,Jorge Lee,Brianna Thompson,John Hester,Mrs. Julia Guerrero,Edward Banks']",Medium
+558,Robert Kim,146,"['Dr. Eric Chung,Seth Coffey']",Medium
+559,Henry Stanley,107,"['Richard Mccoy,Kylie Bruce,Miranda Williams,Curtis Branch,Brittany Mccormick,Carl Huff,Stephanie Martinez,Jaime Stone,Kristin Noble']",Medium
+560,Sarah Miller,87,"['Shannon Kaiser,Christopher Tran,Angela Turner']",Low
+561,Kelsey Raymond,62,"['Mariah Campbell,Justin Osborne,Steven Salazar,Angela Mccoy,Valerie Cardenas,Joe Mendez']",Low
+562,Mrs. Mary Rush PhD,107,"['Jessica Williams,Scott Day,Megan Vance,Theresa Thomas,Evan Walters']",Medium
+563,Brian Craig,160,"['Hunter Hinton,Chase Mitchell,Sharon Willis,Pamela Dorsey,Paula Alvarez,Mr. Matthew Riley,Jose French,Gregory Hall']",Medium
+564,Samantha Wallace,157,"['Michelle Clark,Leah Johnson,Robin Anderson,Erica Brooks,Christopher Gonzalez']",High
+565,Natalie Cole,62,"['Richard Garcia,Anthony Briggs,Jessica Smith,Erik Perez']",Medium
+566,David Mitchell,116,"['Andrew Tucker,Andrea Turner,Luke Flores,Erin Rubio']",Medium
+567,Sarah Wilson,26,"['Stephen Butler,Jenna Ashley,Scott Wolf,Monica Brown,Brittany Ramirez,Vanessa Odonnell,Joel Ramirez,Andrew Vance']",High
+568,Melissa Buchanan,130,"['Ryan Martin DDS,Faith Beasley,Heather Fernandez,Jodi Martin']",Medium
+569,Adam Wilson,63,"['Jacob Richard,Antonio Cunningham,Maria Mueller,Paul Gomez']",Low
+570,Stephanie Adams,71,"['Danielle Long,Christopher Cook,Steven Morris,Maria Jones,Victoria Hunt']",Low
+571,Jennifer Moore,170,"['Becky Rose,Alice Fox,Karen Cobb,William Mendez']",Low
+572,Roger Lloyd,164,"['Dennis Meadows,Alicia Smith,Rebecca Williams,Stephanie Mcguire,Crystal White,John Watson,Sarah Martinez,Abigail Beard,Kevin Johnson,Ronnie Thomas']",High
+573,Justin Diaz,153,"['Charles Rice,Katherine Cox,Karen Knight']",Medium
+574,Derrick Johnson,92,"['Sarah Cowan,Marcus Berger,Patricia Simon,Michael Turner,Valerie Forbes,Rachel Stevens,April Martin,Jason Davis']",High
+575,Timothy Kerr,59,"['Holly Williams,Steven Brown,Madison Adams,Cathy Burns,Michelle Holmes,Wanda Wong,Colin West,Patricia Francis,Deborah Orr,Caroline Padilla']",Medium
+576,Dr. Michael Torres,163,"['Ronald Wilson,Cynthia Proctor,Barbara Williams,Rhonda Harvey,Rita Wilson,James Spencer,Keith Juarez,Mary Smith']",Low
+577,Alan Holland,31,"['Robert Woods,Erica Roberts,Zachary Robles,Stacie Bell,Jeffrey Mills,Vanessa Cooke']",Medium
+578,Heather Miller,109,"['Alex Mitchell,Richard Hays,Lori Hughes,Denise Larson,Dillon Chan,Andrew White,James Day,Mr. Robert Campbell PhD,Megan Ross']",Medium
+579,Eileen Edwards,45,"['Derek Olson,Cameron Wilson,Michael Butler,Megan Cole']",High
+580,Brittany Huerta,14,"['Angela Little,Nichole Barrett']",Low
+581,Samantha Tucker,94,"['Bradley Johnson,Melissa Anderson,Joann Barrera,Jermaine Walker,Penny Fuller,Mr. Christopher Williams']",Low
+582,Thomas Krause,52,"['Jeffrey Mason,Ann Parrish,Jessica Gonzales']",Low
+583,Timothy Cruz,119,"['Laura Nelson,Austin Mccann,Stacie Heath,Maria Ford,Jonathan Garza,Pamela Williamson,Anthony Phillips']",Medium
+584,Jeffrey Meyers,162,"['Timothy Branch,Bobby Scott,Denise Barker,Jaclyn Buck,Walter Johnson,Mary Rollins']",High
+585,Michael Hall,150,"['Brandy Kennedy,Jennifer Smith']",Low
+586,Stephanie Benson,71,"['Alicia Lopez,Eric Padilla,Michael Cantu,John Brown,Pamela Wall,Andrew Moore,Jose Johnson']",High
+587,Thomas Wilkerson,163,"['Joshua Eaton,Samantha Evans,Anthony Romero,David Fowler,Dr. Barbara Johnson PhD,Emily Yang']",Medium
+588,Cynthia Dominguez,79,"['Hector Mendoza,Kathryn Guerra,Anthony Johnson']",Low
+589,Cynthia Kline,58,"['Scott Chandler,Dustin Pratt']",Low
+590,Charles Barnes DDS,93,"['Andrew Owen,Nathan Foster,Rachel Thomas,Patricia Gallegos']",Medium
+591,Jonathan Stewart,168,"['Todd Davis,Scott Wright,Brad Smith,Ashley Evans,Sarah Harrington,Daniel Deleon,Heather Chavez,Vicki Jones,Tracy Wilson']",High
+592,Brandon Carson,97,"['Ryan Mcgrath,Mark Frazier,John Goodwin']",High
+593,Tiffany Robinson,74,"['Vanessa Miller,Katie Woodard,Mary Solomon,Anthony Pennington,Christopher Gregory,Erica Miller,Peggy Morgan,Mario Baker,Wendy Rodriguez,Sara Campbell']",High
+594,Edward Daugherty,179,"['Sergio Wright,Tyler Cummings,Christina Johnson,Sylvia Lopez,Debra Hutchinson,Troy Mills,Vincent Reyes,Kristin Garcia']",Medium
+595,Ashley Curry,100,"['Brian Gardner,Kendra Wilson,Tiffany Hall,Amy Hall,Kendra Vaughn,Elizabeth Jones']",Medium
+596,Nicole Mahoney,56,"['Jennifer Moore,Perry Carter,Kathryn Vega,Tony Hill,Michael Thompson,Joshua Neal,Neil Peters,Krystal Scott']",Low
+597,Alyssa Moore,10,"['Rhonda Herring,Alan Cannon,Jessica Pena,Joshua Singh,Cynthia Smith,Claire Zimmerman,Travis Williams']",High
+598,Carol Sanchez,93,"['Todd Thompson,Nancy Howard,Richard Ritter,Blake Powell,Christopher Stewart']",High
+599,Kristina Porter,153,"['Jennifer Wise,Robert Huang']",High
+600,Amber Sweeney,36,"['Jennifer King,Christine Jennings,David Martin,Patrick Williams,Aimee Macias,Michelle Sellers,Tim Young,David Gonzalez,Ryan Robles']",Low
+601,William Coffey,96,"['David Allison,Jennifer Carpenter,Cody Dawson,Derrick Griffin,Kathryn Gibson,Morgan Rodriguez,Ana Conley,Clifford Cherry']",Medium
+602,Sara King,102,"['Roberto Brown,Brandon Chen,Elizabeth Hanna,Tracy Jimenez,Kimberly Rose,William Miller,Lauren Martinez,Karen Brown,Thomas Garcia']",Low
+603,Diane Paul,117,"['Julie Monroe,Catherine Gomez,Donald Tran,Robert Mclaughlin,Joshua Howard,Alan Rodriguez,William Johnson']",Low
+604,Jason Mendoza,30,"['Courtney Cameron,Richard Ali,Sabrina Meyers,Ashley Kelly,Mark Henderson']",High
+605,Karen Hall,99,"['Michelle Goodman,Mr. Alexander Medina,Curtis Gardner,Kaitlyn Morrison,Darrell Allison,Alyssa Griffin,Monique Martinez,Russell Berry']",Low
+606,David Walsh,116,"['Dana Huff,Teresa Simpson,Tamara White,Natalie Esparza,Robert Frost,Gabrielle George,Tyler Richards']",Low
+607,Carol Bailey,83,"['Kelli Bates,David Hill,Emma Scott,Autumn Roberson,Derrick Drake,James Farrell,Adam Cline,Kenneth Lucero']",High
+608,Mark Smith,179,"['Francisco Melendez,Nicole Mendoza']",Medium
+609,Nathaniel Smith,68,"['Molly Alexander,Becky Jimenez,Audrey Little,Nicholas Miller,Christina Robinson,Kimberly Lindsey,Lori Todd,Felicia Hall,Nicole Gates']",Low
+610,Sandra Jones,100,"['Ryan Gross,Larry Martinez,Joel Juarez']",High
+611,Michael Harper,94,"['Michelle Young,Kayla Weber,Mathew Drake,Samantha Edwards,Edwin Smith,Robert Lowe,Matthew Hayes,Michelle Swanson']",High
+612,Peter Gill,106,"['Dominique Hill,Mary Thomas,Tony Gonzalez,Brian Taylor,Dennis Griffin,Jenny Day,Mrs. Wendy Hall,Manuel Mills,Michael Ortiz,Connie Smith']",Low
+613,Kristen Rivers,177,"['Anthony Sims,Ashley Phillips,Linda Hughes,Kyle Estes,Stacy Johnson,Courtney Osborne']",Medium
+614,Tabitha Wilkins,103,"['Shelley Costa,Katherine Moore,Michael Chandler']",Medium
+615,Kimberly Stevens,66,"['Christopher Thomas,Edward Guzman,Chad Meza,Philip Li,Wanda Thomas,Stephanie Roberts']",Medium
+616,Shawn Key,57,"['Mr. Lance Allen,Beth Lee,John Thomas,Mary Browning,Mason Todd,Angela Scott,Laurie Clark,David Nichols,Denise Hardy']",High
+617,Diana Herring,90,"['Larry Gallagher,Michael Davis,Dustin Ortega,Taylor Miller']",High
+618,Amber Hanson,47,"['Andrea Hahn,Brandy Harrison,Bonnie Taylor,Jenna Allison,Jessica Bush,Jacob Hebert,Allison Ramirez,Dr. Kevin Torres,Michael Myers,Virginia Ramsey']",High
+619,Derek Vincent,160,"['Tammy Grant,Holly Cooper,Nicholas Frye']",Low
+620,Elijah Lucero,151,"['Melissa Lang,Robert West,Robert Camacho,Helen Kelley']",Medium
+621,Ralph Ochoa,94,"['Jeremy Lyons,Angela Sherman,Natalie Barnes']",Low
+622,Rebecca Martin,145,"['Ryan Ward,Chelsea Flores,Charles Delgado,Jordan Garcia,Courtney Rios']",Low
+623,Ryan Obrien,64,"['Lisa Sanders,Victoria Rios,Paul King,Ian Henderson,Leonard Ward']",High
+624,Amanda Dixon,125,"['Stephanie Rich,Carolyn Yates,Sarah Mccarthy,Dan Oliver,Katherine Guzman,Patricia Turner,Sherri Monroe']",High
+625,Zachary Logan,38,"['Tony Hayes,Phillip Reyes,Paul Wolfe,Robert Rush,Vanessa Mccarty,Molly Lopez,Gregory Barnes,Juan Pierce']",Medium
+626,Terry Carter,171,"['Kevin Hall,Angel Pierce,Kevin Wilson,Madison Cannon,Matthew Glover,Angela Bradley,Mr. Jesse Mcdonald PhD,Jesse Morrow']",Low
+627,Samantha Cruz,86,"['Jason Carter,Jacob Nelson,Matthew Brown,Mark Schaefer,Christopher Humphrey,Thomas Rich']",Low
+628,Caitlin Mcclain,87,"['Carl Morgan,Laura Austin,Susan Torres,Evan Wright,Joseph Grant,Tricia Taylor,Elizabeth Buckley,Patricia Oliver,Tina Harrison,Anna Fisher']",High
+629,Logan Doyle,125,"['Kyle Ramos,Erica Meyer,Stephanie Ford,Brenda Franco']",Low
+630,Eric Henderson,63,"['Stephanie Morales,Mary Contreras,Charles Lam']",Medium
+631,Jill Davies DDS,57,"['Christine Allen,Veronica Warner,Eileen Cardenas']",High
+632,Robyn Cruz MD,67,"['Matthew Horne,Robert Watson,Daniel Nguyen,Bryan Roberts,Michael Taylor,Frank Barnett,Christopher Hayes,Carmen Hamilton']",Medium
+633,Grace Lopez,169,"['Christopher Elliott,Emily Miller,Tracy Taylor,Bryan Larson,David Huffman,Becky Hernandez,Suzanne Foster,Jessica Sandoval']",Medium
+634,Steve Brown,147,"['Joseph Barnes,Allison Day,Alicia Cole,Amy Jones,Kathryn Townsend']",Medium
+635,Karen Allen,174,"['Julie Reed,Annette Whitney,Richard Alvarado,Victor Holmes,Rhonda Price,Nathan Thompson,Patricia Gill']",High
+636,Lisa Silva,163,"['Eric Evans,Michael Davis,Steven Marquez,Renee Farmer,Lori Gibson,Emily Price']",High
+637,Joseph Gibson,155,"['Tiffany White,Mike Gibson,Robert Reid,Jose Maddox,Kyle Henderson,Amanda Rodriguez']",Medium
+638,Diane Wilson,51,"['Jenny Davidson,Sara Conrad,Willie Jones,Lisa Walker,Marissa Medina,Kayla Sanchez,Bradley Grant,Jennifer Sullivan,Gina Cooper,Amy Finley']",Medium
+639,Mark Fowler,166,"['Kimberly Williams,Alexander Riddle,Michael Knight,Raven Burns,Emily Garcia,Curtis Valencia,Karen King']",Medium
+640,Grace Raymond,52,"['Kyle Beltran,Roger Vasquez,James Thomas,Nicholas Aguilar,Donna Johnson,Michael Bartlett']",Medium
+641,Natalie Hodges,165,"['Kelly Johnson,Dawn Campbell,Stephen Robinson,Robert Jacobson']",High
+642,Benjamin Washington,93,"['Robert Combs,Nicole Brown,Kimberly Miller,Terry Dougherty,Craig Wiley,Dr. Kevin Jackson,Katie Collins,Kathryn Combs,Jeanette Morales']",Low
+643,Richard Chen,101,"['Megan Diaz,Andrea Francis,Amber Sweeney,Lisa Smith,Bill Schultz,Jacqueline Smith']",Medium
+644,Nicole Spencer,26,"['Raymond Cordova,Brianna Bell,Carlos Moore,Rachel Wolf,James Johnson,John Evans,Mark Pierce,Cynthia Baker']",High
+645,Jeffrey Park,48,"['Emily Burgess,Bonnie Santiago,Austin Clark,Christian Strickland,Rachel Chandler,Rachel Gregory']",Low
+646,Rachel Shaffer,151,"['Sarah Dennis,Luke Smith']",Medium
+647,Catherine Nguyen,94,"['Kelly Santos,Lucas Howard,William Osborne']",Medium
+648,Courtney Thomas,135,"['Laura Morrison,Rhonda Lee,Robert Diaz,Anita Stokes,Andrew Martinez,Jeremiah Alvarado,Barbara Barber,Danielle Armstrong,David Gibbs']",Low
+649,Lauren Torres,94,"['Robert Price,Kimberly Thomas,Veronica Hall,Mark Jones,Rachel Johnson,Jason Lowe']",Low
+650,Emily Haley,13,"['George Johnson,Natalie Richmond,Ronald Daniels,Mr. Scott Lambert']",High
+651,Melanie Young,82,"['Patrick Reed,Robin Harris,Michael Allen,Nicholas Alexander,Kevin Conley,Ronald Butler,Tracey Benson,Catherine Campbell,Michelle Wheeler,Dr. Ronald Morrow']",Low
+652,Dennis Franco,13,"['Stacy Brown,Jennifer Baker,Antonio Bond,Christopher Stephens,Jessica Weber,Jackie Nichols,Christina Cooper,Christopher Martin,Ashley Sampson,Carolyn Padilla']",Medium
+653,Ryan Freeman,38,"['Joel Taylor,Leah Acevedo,Julie Dixon,Catherine Miller,Brian Barnes,James Nelson,Robert Phillips']",High
+654,Jessica Duffy,115,"['Corey Johnson,Caroline Navarro,Joanna Williams,Cynthia Salazar,Matthew Blevins,Suzanne Johnson,Daniel Bridges,David Hoffman']",High
+655,Margaret Fox,87,"['Heather Klein,Terri Brooks,Jasmine Anderson,Ruben Chapman,Paul Bauer,Robert Brennan']",Low
+656,Jason Morgan,69,"['Sara Johnson,Edward Douglas,Evan Le']",High
+657,Karen Stanley,88,"['Julie Booth,Ashlee Duran']",Low
+658,Nicole Contreras,6,"['Cheryl Ramirez,Joseph Bradley Jr.,Shelby Huang,Nicole Williams,Judith Duffy,Kendra Raymond']",Low
+659,Jasmine Adams,94,"['Mitchell Bishop,Joshua Ware,William Martin,Joseph Sims,Mark Lambert,Candice Sullivan']",High
+660,Mitchell Green,34,"['Patricia Jenkins,Peggy Cordova']",High
+661,Holly Jackson,89,"['Timothy Knight,Matthew Harris']",High
+662,Nicole Santiago,134,"['Casey Schneider,Ariana Nguyen,Christie Patton,Joshua Davidson,Tiffany Nelson,Michelle Love,David Craig,Ashley Ramirez,Madeline Noble']",High
+663,Daniel Shaw,102,"['Morgan Cisneros,Miss Victoria Hernandez,Jill Burton,Caitlin Briggs']",Medium
+664,Jennifer Lyons,97,"['Marco Fox,Lisa Garner,Michelle Woodard,Michael Thompson III,Jason Mitchell,Heather Jordan,John Jensen,Mark Hogan,Kathleen Jimenez']",Medium
+665,Angela Sawyer,67,"['Anthony Glenn,Derek Lawson,Thomas Bauer,Tracy Cook,Peter Morgan,Karla Peters,Richard Gibson']",Low
+666,Dr. Donald Hicks,16,"['Carol Blair DDS,Aaron Sutton,Jessica Chavez,Richard Harrison,Heidi Christensen']",Low
+667,Alexandra Morgan,53,"['Heather Murphy,Nicholas Shepard,Vincent Williams,Gina Cantu,Kimberly Harmon,Glenn Harrington']",High
+668,Christine Francis,116,"['Melanie Fuller,Alicia Hernandez,Patrick Miles,Mr. Kevin Abbott DVM,Heather Anderson,Anthony Alexander,Paul Carter']",Low
+669,Kim Garcia,111,"['Paul Brown,Dakota Arnold,Jonathan Torres,Wendy Evans,Jonathan Thornton']",Medium
+670,Sandra Abbott,109,"['Kathy Thomas,Sheri Cole,Shane Harris,Katherine Wang']",Low
+671,Courtney Phillips,7,"['Joanne Ward,Jeremy Gallegos,Alan Valdez,Matthew Barnes']",High
+672,Jacqueline Perez,89,"['Pamela Hensley,Lisa Davis,Tanya Roach,Gregory Ibarra,Samantha White,Amanda Hernandez']",Low
+673,Oscar Griffin,47,"['Amber Goodwin,Steven Green,Christina Pham,William Sanchez,Richard Randolph,Teresa Robinson,Matthew Watson,Cynthia Williams,James Gutierrez']",High
+674,David Costa,120,"['Alexander Delgado,Steven Hart,Karen Ryan']",High
+675,Jennifer Wright,33,"['Jessica Miller,Melissa Gibson,Robin Gutierrez']",Low
+676,Christina Oliver,33,"['Laura Foster,Sarah Barber,Jennifer Moore,David Schroeder,Anna Kennedy,Mr. Joshua Murray,Yolanda Hatfield,William Greene']",High
+677,Christopher Jackson,9,"['Eric Gregory,Robert Davis,Charles Perez,Jennifer Perkins,Christopher Tyler,Larry Clark,Thomas Allen,Benjamin Martin,Caitlin Hatfield,Charles Stephenson']",Medium
+678,Craig Allen II,179,"['Jeffrey Moreno,Anne Moss,Jennifer Mendoza,Angela Smith,Matthew Williams,Isaiah Parker,Tara Castro']",Low
+679,Patricia Wade,24,"['Melissa Elliott,Mr. Christopher Smith,Brett Anderson,Gary Garrison,Christopher Ibarra,Stephanie Cunningham,Emily Rodriguez,Leslie Shepard']",Low
+680,Laura Hall,8,"['Tyler Moon,Amber Clayton,Shelly Smith,Kenneth Andrews,Leroy Donaldson,Christina Esparza,Rachel Mullen']",Medium
+681,Dean Walker,143,"['Dean Chen,Victoria Reed,Diana Bentley']",Low
+682,Dominic Zavala,30,"['Kristin Hamilton,Alexis Smith,Thomas Alexander,Phillip Ramirez,Walter Romero,Richard Cameron,Heather Gonzalez,David Martinez,Sue Lee,Spencer Rogers MD']",Medium
+683,Taylor Downs,79,"['Theresa Stevenson,Justin Underwood,Lisa Howard']",Low
+684,James Hart,78,"['James Owens,Patricia Smith,Lauren Bond,Cody Thompson,Eric Goodwin,Jenna Brown,Joy Valenzuela']",High
+685,Mr. Shawn Sweeney,74,"['Jodi Francis,Mary Anderson,Kimberly Green,Christine Scott,Troy Simmons,Savannah Campbell']",Low
+686,Veronica Bender,137,"['Mrs. Dana Bradley,Kelly Duncan,Judy Romero,Jennifer Burton,Xavier Hendrix,Brian Mcdonald']",Low
+687,Victoria Phillips,175,"['Linda Larson,Robert Diaz,Mark Black,Johnathan Brooks,Donna Clark']",High
+688,Bryan Mitchell,73,"['Sherry Owen,Kimberly Williams,Kevin Smith,Christopher Flynn,Mary Patterson,Jeffrey Fernandez,Jennifer Perez,John Gentry']",Medium
+689,Mallory Morgan,38,"['Thomas Henderson,Michael Bennett,Randall Phillips,Michelle Morales,Karen Howell,Robert Baxter,James Harvey']",Low
+690,Matthew Krueger,56,"['Robert Barry,John Warren']",Medium
+691,Audrey Burch,164,"['Harry Logan,Melissa Pope']",Medium
+692,Jessica Deleon,116,"['Michelle Munoz,Susan Sullivan,Andrew Guerrero,Brandon Trujillo,Scott Moreno,Elizabeth Valenzuela']",Low
+693,Candace Gonzales,59,"['Megan Watkins,Ralph Murphy,Allen Hardin,Kenneth Curry,Mr. Randy Tucker,Mark Phillips,Megan Garcia']",High
+694,Amanda Hines,78,"['Samuel Taylor,Spencer Howard,Kimberly Wilson']",High
+695,Joseph Clark,178,"['Ashley Smith,Michael Anthony,Erica Douglas,Susan Edwards,Jacqueline Phillips']",High
+696,Peter Williams,145,"['Jonathan Sanchez,Danielle Buck,Michelle Mitchell,Noah Savage,Joshua Floyd,Joshua Curtis,Todd Heath']",High
+697,Julie Nelson,162,"['Kevin Watkins,William Johnson,Ricky Gibson,Grant Greene,Sheryl Solomon,Rebecca Zimmerman,Jennifer Moore,Gregory Wiggins,Mrs. Mackenzie Gamble DDS,Kevin White']",High
+698,Christine Phelps,11,"['Donald Warren,Charles Williams,Elizabeth Flores,Bradley Hernandez,Daniel Cruz,Lauren Jennings,Amanda Lamb,Julie Gutierrez,Brad Rodriguez']",High
+699,Sheila Wood,166,"['Amy Stokes,Carlos Aguilar,Jordan Ramos']",High
+700,Jillian Sutton,66,"['Adam Reyes,Alisha Ingram,Brandy Gallegos,David Rangel,Anne Matthews,Kimberly Young,Margaret Frye,Robert Kim,Desiree Rodriguez']",Low
+701,Susan Wilkins,156,"['Emily Brewer,Gina French,Bradley Carrillo']",Low
+702,Amanda Singh,83,"['Donald Robbins,Brenda Stone,Tammie Martinez,Victor Martinez,Kenneth Evans,Lauren Murphy,Kevin Gutierrez,Megan Aguirre,Gregory Erickson,Hannah Davis']",Low
+703,William Cox,135,"['Christina Perry MD,Richard Johnson']",Low
+704,Wanda Morales,48,"['Cameron Nelson,Katherine Johnson,Brandon Villanueva,Tyler Hubbard,Scott Sanders,Jesus Knight']",Medium
+705,Daniel Allen,120,"['Christopher Sullivan,Caleb Zimmerman']",Medium
+706,Adrienne Snyder,44,"['Thomas Mccormick,Ashlee Poole,Megan Anderson,Elizabeth Wilson,Maria Dickerson,Mary Jackson,Roger Sullivan']",High
+707,Kyle Lewis,7,"['Joshua Porter,Krista Ramirez,Joseph Cooke,Toni Wallace,Samuel Watkins,Kevin Johnson,Brian Foley,Brandon Hoover,Kevin Roberson']",Medium
+708,Amy Harrison,51,"['Miss Sarah Johnston MD,Scott Caldwell,Tracie Williams,James Wright,Joanna Marsh']",Medium
+709,Kimberly Cohen,117,"['Christopher Scott DVM,Ashley Bowman MD,Anne Harris,Frank Hopkins,Andrew Rice,Heather Simon,Connor Stanley,Thomas Rasmussen,Erica Paul,Don Wagner']",Low
+710,Mark Johnson,165,"['Andrew Richardson Jr.,Mr. Jeffrey Jenkins']",Medium
+711,David Newman,30,"['Heather Stewart,Dana Dennis,Mandy Duran MD,Tiffany Martin,Jessica Butler']",High
+712,Ross Snyder,168,"['William Bailey,Kenneth Chan,Carla Boyd,Brandi Williams,Thomas Warren,Elizabeth Glenn,Kevin Andrade,Philip Jones,Zachary Horton']",Low
+713,Jeremy Russell,133,"['Robert Grant,Brandon Miller,Jose Lane DDS,Cameron Hammond,Kevin Huerta']",High
+714,Jennifer Long,163,"['Dr. Kelly Lopez,John Simpson']",Low
+715,Jason Rodriguez,60,"['Nicole Williams,Derek Ward,Sharon Mckay PhD,William Patterson,Julie Lindsey']",Low
+716,Samuel Myers MD,23,"['April Lee,Theresa Taylor,Stephen Terry,Kathleen Randolph,Thomas Warren,Morgan Boone']",High
+717,Shawn Gay,93,"['Patricia Allen,Steven Kaufman,Maria Lopez,Michael Wallace,Cody Smith,Michelle Huffman,Vicki Crawford,Michael Lee,Kristen Gonzalez,Laurie Miller']",High
+718,Christopher White,43,"['Tara Johnson,Matthew Cooper,Joseph Luna,Samantha Costa,Hayley White,Aimee Levy,Jordan Lopez,William Hendrix,Christopher Perkins']",Low
+719,Bobby Jones,69,"['John Ramos,Rachel Thomas,Brian Smith']",Low
+720,Mr. Thomas Harrington PhD,16,"['Jeremy Thomas,Beverly Jones,Christopher Martin,Nicholas Parker,Rebecca Henderson']",Medium
+721,Emily Moreno,73,"['Anthony Munoz,Lauren Espinoza,Tammy Gonzalez,Brian Greene,Danielle Moore,Troy Ferguson,Thomas Ramirez,James Anderson,Mary Davis']",Low
+722,Rachel Garcia,85,"['Teresa Boyd,Yvonne Fisher,Todd Reese,Mark Kim,Emma Bailey,Anthony Deleon,Samantha Crawford,Nicholas Everett,Nancy Rocha,Mark King']",Low
+723,Christine Moore,47,"['Sarah Bond,Kelly Christensen,Heather Hicks,Kristy Lopez PhD,Duane Walsh']",Low
+724,Emma Gonzales,34,"['Lynn Murillo,Michelle Yoder,Mary Smith,Micheal Burke,Emily Fox,Jennifer Thomas,Elizabeth Parker,Nicole Ellis,Cesar Smith']",High
+725,Eric Velez,82,"['Eric Carter,Mrs. Erin Banks,Colleen Davis,Beth Graves,Daniel Hobbs,Courtney Mills,Mr. Jacob Hunt,Christopher Brown']",Low
+726,Maria Ball,82,"['Cory Carson,Ryan Rivas']",Medium
+727,Jeremiah Brooks,76,"['Stephen Page,Sabrina Sloan,Andrea White,Rhonda Ford']",High
+728,James Kennedy,167,"['Elizabeth Chavez,Joshua Luna,Yvette Foster,Tammy Galloway DVM,Tyler Levine,Casey Pearson,Jonathan Ramirez,Angela Wolfe,Patrick Johnson,Christina Daniels']",High
+729,Becky Jenkins,25,"['Teresa Alvarado,Tyrone Choi,Brandon Garcia,Mr. Aaron Smith,Angela Yoder,Lisa Clark,Kelly Riley']",High
+730,Nathan Wiley,23,"['Matthew Oneal,Jennifer Smith,Rebekah Ford,Mary Foster,Mario Bright,Tiffany Gregory,David Knight,Michelle Ferguson']",Low
+731,Taylor Gay,82,"['James Little,Rodney Richards,Jennifer Bell,Emily Gray']",High
+732,Sheila Jefferson,55,"['Emily Garrett,James Sherman,Dawn Meyer,Dylan Graham,Paul Cantrell,Laura Austin,Bonnie Campbell,Benjamin Mays,Megan Jordan MD,Stacie Pittman']",Low
+733,Devon Ashley,115,"['Christopher Adams,Priscilla Smith,Theresa Morris']",Medium
+734,William Arnold,107,"['Joel Bailey,Taylor Thomas,Dustin Smith,Kimberly Bowman,Thomas Brooks,Sarah Blevins,Chase Tapia,Jesse Ramos,Victoria Davis DDS']",High
+735,Keith Gonzalez,174,"['Jennifer Jones,Ronald Browning,Jessica Manning,Justin Zavala']",Medium
+736,Rachel Adams,125,"['Ronnie Gonzales,Kari Sloan,Michaela Shaw,Robert King,Cynthia Mccormick,Jason Cooper,Rhonda Long,Christopher Edwards,Brittany Guerra']",High
+737,Patricia Ramos,163,"['Cheyenne Graves,David Underwood,Erin Ramirez,Chad Bailey,April Russell,David Marshall,Nicholas Alexander']",Medium
+738,Karen Hoffman,153,"['Steven Cooper,Samantha Spence,Brian Thomas,Kenneth Wilson,Ryan Ramirez,Rebecca Morton']",High
+739,Charles Proctor,67,"['Michael Jackson,Tracey Little,David Torres,Shelley Freeman,Kylie Green,Kristine Washington']",High
+740,Marcus Mitchell,111,"['Mary Castillo,Amber Cole,Kenneth Parker,William Hendricks,Ryan James,Kyle Vasquez,Adrian Keller,Rebecca Garcia,Ricardo White']",Medium
+741,Alexandra Wang,28,"['Michele Mason,Holly King']",High
+742,Sharon Johnson,85,"['Johnny Clark,Robert Byrd,Troy White,Tara Vaughan,Jackie Dickson,Christopher Reyes,Robert Hickman,Mary Johnson,Gary Goodwin,Jacob Silva']",High
+743,Rachael Smith,150,"['Jacob Hall,Christopher Bradford']",Low
+744,Lauren Anderson,156,"['Brian Hunt,Samuel Malone,Wesley Torres,William Lewis,Angela Joseph,David Schmidt,Thomas Ramirez']",Medium
+745,Shawn Berry,107,"['Christine Walsh,Samantha Robinson,Steven Mullins,Carolyn Patel']",Low
+746,Christian Snyder,171,"['Dylan Evans,Megan Proctor,Tyler Ellis']",Low
+747,Tina Avery,34,"['Debbie Adams,Daniel Brown,Jonathan Lloyd,Kurt Bauer,Scott Franklin,Ronald Anderson']",High
+748,Kaitlyn Graves,169,"['Jessica Mcpherson,Valerie Martinez,Reginald Fernandez']",High
+749,Roberto Jenkins,7,"['Joseph Cruz,Andre Parks,Alexandra Berry,Tracy Weber']",Medium
+750,Michael Hernandez,152,"['Robert Wang,Kylie Bailey']",High
+751,Richard Rhodes,90,"['Julie Woods,Jennifer Brown,Ronald Snyder,Jason Fowler,Sean Howell,Joyce Dunn,Raymond Fields,Amy Boyle']",High
+752,Heather Robertson,170,"['Natalie Underwood,Christian Hatfield,Katherine Ruiz,Scott Marsh,Daryl Dixon,Dominique Bridges,Michelle Wallace,Taylor Smith']",High
+753,Daniel Chen,102,"['William Wright,Brian Mcbride MD,Emma Cisneros,Kathleen Choi,Gloria Johnson,Dale Doyle,Amanda Stuart']",High
+754,Kim Horton,144,"['Karen Buck,Richard Hill,Danny Morgan,Sarah Meyer,Amber Hampton,Karen Roberts']",Medium
+755,William Bender,76,"['Brooke Rogers PhD,Misty Morrison,John Alvarez,Zachary Bishop,Derrick Myers,John Robinson,Robin Krause,Michael Michael']",Medium
+756,Alexis Miller PhD,32,"['Jorge Lopez,Frank Martin,Brittany Moore,Laura Charles,Jeremy Anderson,Dennis Williams,Carl Jenkins,Evan Hall,Sandra Gray,Stacie Warren']",Low
+757,Brandon Cooper,13,"['Gary Hutchinson,Kristy Powell,Willie Lopez']",Medium
+758,Joseph Hardin,71,"['Ricky Smith,Christopher Williams,Todd Pierce,Larry Peterson,Robert Waller']",Low
+759,Scott Edwards,111,"['Kyle Harper,Monique Maxwell,Susan Robinson,Kaitlyn Johnson,Megan Vargas,Robert Martinez']",Low
+760,Laura Morris,167,"['Jennifer Parsons,Emma Harris,Dustin Martinez,Peter Dalton,Gloria Reid,David Garrison,Kathleen Morrison']",High
+761,Heather Rush,5,"['Sarah Armstrong,Gene Lawson']",High
+762,Andrew Campbell,116,"['Deanna Thompson,Paul Mendez,Calvin Wallace,Kenneth Ho']",High
+763,James Walsh,117,"['Katie King,Jeffrey Garcia,Michelle Yates,Adam Finley,Dr. James Kelly']",High
+764,Jordan Blankenship,144,"['Brandon Benjamin,Isaac Garcia,Dwayne Howell,Lindsey Cook,Matthew Hanna']",High
+765,Gregory Adams,5,"['Tracey Bass,Justin Allen,Christina Williams,Tony Greene,Edwin Santiago']",Medium
+766,Dr. Samantha Webster PhD,70,"['Larry Knox,Felicia Butler,Kenneth Phillips,Tina Francis,Brian Frey,Craig Boyd']",Low
+767,Michael Russell,130,"['Samantha Porter,Jason Dickson,Chase Rogers,James Ayala,Renee Merritt,Robin Buck,Michael Martinez']",Low
+768,Laura Arellano,88,"['Daniel Watson,James Willis,Bill Fry,Jessica Cooper,Amanda Alexander,Anthony White,Linda Berger,Lisa Thompson']",Low
+769,Jason Watson,179,"['Bailey Frazier,Heather Hodges,Melissa Scott,Carla Nguyen,Kathy Martin,Christopher Berry']",Low
+770,Derek Robinson,99,"['Bianca Crawford,Anthony Walker,Brandon Thomas,Anthony Anderson,Dylan Hampton,William Davenport,Mary Malone,Joshua Fisher,Jodi Ferguson']",Medium
+771,Tracy Hill,127,"['Mikayla Taylor,Mark Jenkins,Laura White,Walter Hodge,Hunter Lucas,Yvonne Warren,Mr. Scott Hernandez,Dr. Pamela Gray DDS']",High
+772,Benjamin Strickland,179,"['Ann Melton,Jennifer Pham,George Myers,Peter Lynch,Tina Ellis,Scott Raymond,Michael Davis,Connor Campbell,Mary Newman,Tonya Gonzalez']",Low
+773,Cameron Crosby,131,"['Rachel Moore,Eric Wilson,Christine Jacobs MD,Regina Gonzales,Robert Wilson DVM,Megan Rodriguez,Melissa Fisher,Casey Mason,Taylor Hernandez,Erik Hopkins']",Medium
+774,Michael Harrington,47,"['William Hall,Jose Dodson,Jessica Morales,Sherry Trevino,Kerry Wagner,Amanda James MD,Crystal Sellers,Gerald Noble']",High
+775,Theresa Martinez DDS,111,"['Ronald Yates,Paul Maldonado,Christopher White']",High
+776,Clifford Williams,141,"['Laura Blevins,Antonio Allison,Katherine Adams,Michael Collier,Daniel Moore,Tina Perez']",Low
+777,Ryan Townsend,153,"['Javier Riley,Lisa Mcgee']",Medium
+778,Brandon Chaney DDS,110,"['Kimberly Velasquez,Kyle Perez,Michele Orozco,Ronald Black,Curtis Hamilton,Ricky Brown,Catherine Peters,Amanda Bennett PhD,Sharon Taylor,Joshua Lee']",High
+779,John Jackson DDS,154,"['Sarah White,Tara Patterson,Nicole Irwin,Benjamin Lang,Michael Rivera']",Medium
+780,Nathan Diaz,41,"['Robert Brown,Dana Hernandez,Timothy Mills,Pamela Ryan,Ashley Gonzalez,Shannon Valdez,Mary Lowe']",Medium
+781,Michelle Nicholson,104,"['Alicia Smith,Tyler Morgan']",Medium
+782,Makayla Welch,100,"['Monica Daniels,Laurie Miller']",Medium
+783,Philip Harrell,144,"['Michael Sherman MD,Madeline Nelson']",High
+784,Todd Andrews,162,"['Cheryl Donovan,Jessica Johnson MD,Thomas Walter']",Low
+785,Jill Cox,89,"['George Moore,Margaret Dominguez,Dennis Robinson,Nathan Morales,Brenda Turner,Larry Martinez,Robert Zuniga,Danny Solomon,Christian Roy,Amanda Travis DDS']",Medium
+786,Taylor Garcia,129,"['Omar Robinson Jr.,Lauren Anderson']",High
+787,Evan Morris,95,"['Christopher Soto,Monica White,Marc Boyd,Terri Hicks,John Williams']",Medium
+788,Amy Rosario,133,"['Lisa Gill,Barbara Kennedy,Christopher Colon,Angela Cooke']",Low
+789,Daniel Martin,8,"['James Freeman,Mark Haas,Robert Snyder,Judith Ward,Katherine Kelley MD,Bryan Wilson,Janice Hoover,Melissa Garner']",Low
+790,Tyler Hodge,32,"['Lauren Glenn,Laura Le,Dakota Hayden,Nicholas Brown,Deborah Case,Laura Yu,Samuel Taylor,Jason Henderson,Jonathan Ward,William Velez']",Low
+791,Anthony Morales,82,"['Nicole Herman MD,Lisa Bond,Eric Kim,Diana Hicks']",High
+792,Michelle Ellis,150,"['Lance Day,Lori Barajas,Benjamin Butler,Charles Hudson,Gail Rice,Joseph Wallace']",Medium
+793,Chelsea Ferrell,12,"['Austin Hodges,Sandra Petersen,Melanie Mcbride,John Wong,Allison Christensen,Tiffany Charles,Rachel Berry,Robert Anderson,Nancy Sanchez,Terry Robinson']",Low
+794,Andrew Lee,109,"['David Acevedo,Alicia Stevenson,Kimberly Cox,Deborah Chase,Joshua Medina,Jason Singh,Cody Watson']",Low
+795,Doris Johnson,134,"['David Juarez,David Strong,Rachel King,Melissa Roy,Julie Rodriguez,Tracy Fox,Ellen Gregory,Veronica Kennedy']",Medium
+796,Tammy Martin,117,"['Lisa Brown,Matthew Ryan']",Low
+797,Lucas Trujillo,34,"['Donna Miller,Benjamin Maldonado,Megan Miller,Brittney Ross,Kara Sosa,Eric Clements,Sheri Maldonado,Christine Walsh,Brian Burns,Katherine Taylor']",High
+798,Amber Sullivan,132,"['Rachel White,Jennifer Woods,Jacob Perez,Zachary Neal,Alyssa Nguyen,Lisa Norris']",High
+799,Patricia Holmes PhD,86,"['Joshua Townsend,William Pierce,Dillon Herrera,Belinda Merritt,Cathy Wilson,Gregory Ward,Jared Fernandez']",Medium
+800,Lauren Warner,148,"['Dr. Jeremy Smith,Samantha Johnson,Sarah Daniels,Peter Anderson,Timothy Jones DDS,Mary Oliver,Chad Fernandez']",Low
+801,Curtis Mcdaniel,117,"['Jeffrey George,Mark Gross,Deanna Jackson,Jennifer Perez,Jacob Green,Valerie Garza,Daniel White,Melissa White']",Medium
+802,Melissa Griffin,11,"['Grant Washington PhD,Joshua White,Christopher Watson,Christopher Smith,Steven Payne,James Rogers,Jose Mccoy,Zachary Calderon']",High
+803,Christopher Johnson,124,"['Kurt Summers,Joe Kim,Troy Reed,Barbara Rivera,Adrian Gonzalez,Mary Hernandez,Allen Weaver']",Low
+804,Joanna Jimenez,18,"['Heather Marsh,Michelle Valentine,Joel Brady,Michael Bradford']",Medium
+805,Amy Russell,92,"['Gregory Holder,Curtis Bartlett,Nicole Bates,Daniel Davis,Tyler Moody,Sherry Aguilar,Matthew Turner,Jessica Nguyen MD,Kimberly Knox']",Medium
+806,Natalie Neal,89,"['Timothy Collins,Brian Lee,Terry Wright,Tyler Salazar,David Small,Anthony Olson']",High
+807,Joseph Fernandez,85,"['Lawrence Nguyen,Cory Scott']",High
+808,Ronald Jones,113,"['Tyler Brewer,Justin Torres,Tiffany Parker,Joseph Silva']",Medium
+809,David Rocha,116,"['Anthony Davis,Tyler Taylor,Kelsey Stuart,Eric Hendrix,Brian Stewart,Anne Jimenez,Patrick Poole,Eric Graham']",Low
+810,Marco Gutierrez,69,"['Crystal Molina,Donna Griffin,Russell Murray,Hannah Luna']",Low
+811,Natalie Smith,107,"['Thomas Vargas,Ryan Burton']",High
+812,Kara Parker,9,"['Sarah Martinez,Cassandra Alvarado,Melanie Hansen']",Medium
+813,James Fry,48,"['Laura Mills,Lisa Hill']",Medium
+814,James White,26,"['Catherine Thompson,Mrs. Ashley Williams MD,Brian Allison,Jesus Odonnell,Jorge Lewis,Joanne Parrish MD,Kayla Bowman,Michael Taylor']",Medium
+815,Michael Davis,95,"['Julie Lopez,Patricia Smith,Angel Lynch,Laura Singh,Ryan Gomez,Kenneth Morris,Emily Jackson,Jacob Tyler']",Low
+816,Sarah Johnson,146,"['Miranda Allen,Lawrence Garner']",Low
+817,Sally Ellison,144,"['Nicole Knight,Nicholas Taylor,Amanda Jones,Mark Melton,Tina Flynn,Susan Lara,Vanessa Cortez,Timothy Zavala,Elizabeth Williams']",High
+818,Joseph Palmer,37,"['Crystal Allen,Joseph Evans']",Medium
+819,Jennifer Patel,19,"['Linda Cervantes,Becky Jones,Tina Rice']",Medium
+820,Edward Anderson,113,"['Tracy Lee,James West,Ann Anderson,Mr. Brian Galloway,Kristin Brown,Jordan Murray,Nathan Daniels,Amanda Lopez']",Low
+821,Theresa Brown,104,"['Raymond Baker,Kristy Glover,Michael Roberts,John Ray,David Lyons,Renee Thornton,James Sheppard,Mitchell Morgan']",Medium
+822,Amy Ryan,141,"['Gary Newton DDS,Matthew Wheeler,Shelly Porter']",Medium
+823,Jeffrey Yoder,136,"['Chelsea White,Joshua Garcia,Andrew Morrow,Vicki Flores,Elaine Marshall,Jennifer Walker']",Low
+824,Katie Salinas,170,"['Victoria Contreras,Tyler Guzman,Mary Rogers,Joseph Myers,Michael Ramirez,Justin Davis']",High
+825,John Orr,112,"['Denise Davis,Donald Snow,John Figueroa,Jacqueline Spence,Christine Graham,Daniel Brown,Lisa Holmes,Mr. Christian Washington PhD']",Medium
+826,Victoria Sanchez,50,"['April Morris,Ian Daniels,Brenda Cook,Kayla Adams']",High
+827,Luke Parker,59,"['Kevin Flowers,Wanda Meyers']",Medium
+828,Angela Scott,23,"['Robert Hill,Timothy Tran,David Andrews,Julie Phillips,Hannah Morgan,Ronnie Edwards,Kelsey Monroe,Angela Price,Ashley Quinn']",Low
+829,Krista Martinez,127,"['John Woods,Robert Bean,Paula Jackson,Catherine Johnson,Jeremy Martin,Kelly Gonzalez']",Medium
+830,Charles Hill,74,"['Keith Wolfe,Brendan Brewer']",Low
+831,Jeffery Gomez,125,"['Dakota Ramirez,Dr. Jamie Gregory Jr.,Michelle Cortez,Brianna Jones,Sydney Mays,Louis Smith,Richard Fields,Nicole Kirby,Natalie Jones']",Low
+832,Edwin Bradley,29,"['Kim Cooper,Janet Bennett,Susan Duran,Justin Hall,Amanda Lewis,Tony Carr,Jeremiah Gonzalez,Patricia Pope,Ryan Nguyen,Ricardo Banks']",Low
+833,Madison Welch,26,"['Travis Buckley,Gloria Campbell,Jamie Erickson,John Lopez,Sydney Erickson,Ricky Hopkins']",High
+834,Theresa Ochoa,100,"['Mark Pineda,Terry Evans,David Peterson']",Low
+835,Donna Barton,63,"['Donald Bernard,Joseph Crosby,Michael Pierce,Rodney Holt,Joseph Thompson,Laura Scott,Denise Howell,Lisa Cox,Travis Jones']",Medium
+836,Gregory Barker,105,"['Sheena Kaiser,Gina Moreno,James Sawyer,Lauren Tran,Richard Barrett']",High
+837,Bryan Lewis,60,"['Joshua Michael,Teresa Brown,Christopher Barron']",Medium
+838,Alexander Rodriguez,180,"['Cynthia Molina,Courtney Nichols,Michael Stewart,Lindsey Jones,Andrew Reyes,Jesse Duran,Kayla Ramos,Hannah Harris,Cheryl Hall,Jesus Franklin']",Low
+839,Roy Campbell,178,"['Kimberly Kline,Karen Russell,Ralph Miller,Thomas Evans,Sean Harper,Shannon Robinson']",High
+840,Lisa Hanson,33,"['Sandra Davidson,John Bryant']",High
+841,Cathy Lee,172,"['Kirk Morgan,Mr. Brandon Romero,Dennis White,Jared Smith,Tiffany Vargas,Melissa Marshall,Dennis Maddox']",High
+842,Lisa Lucero,101,"['Tina Deleon,Melissa Maxwell,Wanda Briggs']",Medium
+843,Erica Newman,12,"['Philip Guzman,Brent Pitts,Curtis Mcdaniel,Nicholas Carter,Christina Glass,Elizabeth Cooper,Angela James,Deanna Foster,Monique Kidd']",Medium
+844,Lindsay Villanueva,42,"['Hannah Stewart,Dustin Mata,Amanda Lucas,Deborah Harris,Keith Baker']",Low
+845,Erin Lyons,94,"['Jesse Byrd,Rhonda Baker,Linda Avila,Kenneth Finley']",Medium
+846,Melissa Shah,155,"['Melissa White,Benjamin Andrade,Amanda Ashley,Jill Gonzalez,Jason Kelley,Mallory Garza']",Low
+847,Herbert Andrade,44,"['Hunter Lowe,Jonathan Tyler DDS,Melanie Perry,Julie Barker,Shawn Monroe,James Hansen']",High
+848,Mary Sanchez,102,"['Johnny Mccoy,Crystal Montgomery,Benjamin Evans MD,William Ward,Sean Brock,Dr. Julia Mendoza']",Medium
+849,Melissa Norton,111,"['Shelia Campbell,Kaitlyn Rodriguez,Sylvia Vaughn,Michael Cook,Patrick Burke,Maria Edwards,James Rowe,Christopher Moran,Mark Saunders,Debbie Gonzalez']",Low
+850,Shawn White,89,"['Kyle Phelps,Rebecca Gutierrez,David Ramirez,Pamela Wade,Dr. Michele Fisher MD,Jason Higgins,Jessica Vasquez,James Erickson']",Medium
+851,Laura Simpson,134,"['Ashley Bailey,Crystal Matthews']",High
+852,Jeffrey Parrish,69,"['Daniel Weaver,Pamela Williams,Sean Macdonald,Janet Martinez,Jill Evans,Carlos Stewart,Tracy Young,Cory Hill,Bethany Sutton']",Low
+853,Jared Parker,107,"['Taylor Bailey,Brandon Payne,Daniel Barr,Michael Bender,Michelle Wright,Valerie Chen,Katherine Hayes,Ashley Bruce']",Low
+854,Carolyn Jenkins,175,"['Rachel Montgomery,Victoria Guerra,Anthony Galvan,Lisa Hernandez,Jon Galloway DDS,Brian Martin,Jade Ortiz']",High
+855,Sherry Shah,60,"['Timothy Smith,John Gonzalez']",High
+856,Andrew Olson,147,"['Michael Moreno,Mary Wilson,Carrie Stone,Melissa Montgomery,Gregory Salas,Courtney Lewis,Tina Bentley,Darlene Arroyo,Ashley Rivera,Crystal Lucas']",Medium
+857,Donna Martinez,126,"['Mark Salinas,Melinda Hill,Kevin Taylor,Jaclyn Thompson,Karen Nunez,Jean Rogers,Jenny Collins,Diana Gomez,Rhonda Colon,Connor Stephens']",Medium
+858,Timothy Lewis,105,"['Joseph Morales,Ashley Payne,Judith Williams,Annette Hawkins,Christopher Williams,Joseph Harris,Robert Gonzalez,Brian Rivera,Keith Torres']",Medium
+859,Christine Reynolds,114,"['Stacy Vasquez,Danielle Hoffman,Maria Hansen,Bradley Ewing,Robert Walker']",High
+860,Dr. Mitchell Saunders,48,"['Michael Rojas,Cindy Cannon,Christine Hopkins']",Medium
+861,Margaret Chavez,150,"['Traci Martin,Eddie Kelly,Joseph Bright,Jim Walton']",Low
+862,Alexander Callahan,82,"['Willie Matthews,Laurie Blair']",Low
+863,Heather Salas,179,"['John Evans,Michael Greer']",Low
+864,James Jenkins DDS,136,"['Martin Torres,Keith Frank,Dr. Crystal Thomas,Helen Hendricks,Roberto Gilbert,Paul Berry,Kristin Moore,Kimberly Myers,Gordon Howell,Jeffrey Villegas']",Medium
+865,Jeremy Andrews,156,"['Michael Parker,Brian Rubio,Barry Smith']",Medium
+866,George Nelson,143,"['Bridget Buchanan,Darren Nolan,Michelle Owens,Michael Patel,Kim Robertson,Melissa Smith,Diane Ward,Ryan Hunt,Jason Finley,Jamie Wiley']",Medium
+867,Gloria Sampson,180,"['Brian Saunders,Troy Burton,Laura Baker,Timothy Wilson,Rodney Curtis,Michael Jones']",High
+868,Angela Doyle,121,"['Courtney Marsh,Clarence Carr,Rebecca Ford,Ralph Wood,Sarah Fitzgerald,Daniel Tran,Jeffrey Garza,Ryan Newman,Mark Welch,Timothy Wilson']",Low
+869,Lisa Rosario,85,"['Renee Johnson,Roger Bauer,Sandra Phillips,Ashley Jones,Tyler Hancock,Melissa Montgomery,Robert Williams,Sean Gentry,Christopher Gay,Amber Lewis']",Low
+870,Matthew Torres,170,"['John Melton,Kevin Keller,Wesley Gallagher,Marvin Kelly,Dawn Hubbard,Brandon Norton,Glenn Riggs,Heidi Stephenson']",Low
+871,Margaret Fuller,140,"['Jennifer Morgan,Cynthia Andrews,Jessica Morgan,Bryan Shah,Michael Ross']",High
+872,Kimberly Evans DDS,118,"['Cynthia Wood,Alexander Byrd,Jacqueline Jennings,Kyle Martinez,Crystal Lopez,Jennifer Stephens']",Medium
+873,Stephen Baker,116,"['Danielle Santiago,Renee Wright,Chloe Lyons,Misty Goodman,Sharon Hayes,Michelle Bell']",High
+874,William Hardy,117,"['Justin Jensen,Dan Strong,Dominic Sanchez,Jodi Arellano,Amanda George']",Low
+875,Nancy Morris,40,"['Amanda Guzman,Claire Moore,Lisa Long,Gregory Kelly,Glenn Sims,Jasmine Macdonald,Jessica Pena,Karen Adams,Sean Figueroa']",Medium
+876,Stanley Phillips,109,"['Elizabeth Church,Valerie Harrison']",High
+877,Dr. Larry Hill,64,"['Nicole Graham DDS,Nicole Boyd,Lori Williams,Ashley Klein,Stephen Swanson,Samantha Morris,Thomas Jordan']",Low
+878,Johnny Price,99,"['Ricky Rogers,Katherine Lee,Teresa Bell,Keith Adkins,Dorothy Hall,Matthew Fields,Carolyn Davis,Steven Smith,Sabrina Russell']",Low
+879,Kayla Gallagher,89,"['Manuel Lopez,Brian Scott,Kellie Allen,Andrea Valenzuela,Willie Dunn']",Low
+880,William Hayes,69,"['Ronald Ballard,Melissa Simmons,Julie Olson,Derrick Atkins,Christopher Gomez,Leslie Parker']",High
+881,Stacy Coleman,54,"['Robert Miller,Joe Perry,Max Bailey,Richard Meadows,Francisco Marshall']",Medium
+882,Caitlin Guerrero MD,74,"['Mary Hernandez,Rodney Gomez,Shannon Cox,Brittany Nash,Misty Price,Adrian Randall']",High
+883,Penny Berry,137,"['Derek Hansen,Dawn Anderson,James Pugh,Nathan Barnes,Keith Quinn,Ashley Wang']",High
+884,Kimberly Garcia,72,"['Ryan Smith,Linda Thomas,Gilbert Martinez,Heather Carrillo,Eddie Andersen,Mark Anderson']",Medium
+885,Billy Krueger,23,"['Kayla Wu,Gary Cardenas,Samantha Clark,Ronald Garcia,Cassidy Cruz,Danielle Sanchez']",Low
+886,Kristin Smith,7,"['Meghan Garrett,Penny Reynolds,Stephanie Roman,Virginia Smith']",High
+887,Melissa Espinoza,79,"['Samantha Santiago,Jeremy Young,Mr. Alejandro Holt,Roger Gates,Cheyenne Rivera,Jason Huffman,Rodney Phillips,Michael Koch,Michelle Petty,Leslie Fernandez']",High
+888,Michael Turner,39,"['James Bryant,Kimberly Knight,Richard Lee']",High
+889,Jacob Reed,41,"['Ashley Browning,Deborah Flynn']",Medium
+890,Joseph Calderon,8,"['Alison Nunez,Suzanne Potts,David Hanna,Michael Lewis,Brittany Phillips,Anna Osborn']",High
+891,Alicia Pena,35,"['Margaret Chapman,Eric Torres']",Low
+892,Benjamin Gibbs,105,"['Michelle Thomas,Holly Gibson,Marie Johnston']",Medium
+893,Yolanda Moody,9,"['Casey Wu,Timothy Martinez,Patricia Jones,David Martinez,Toni Morris,George Ayala,Emily Pham,Cheryl Grimes,Jennifer Patterson']",High
+894,Jamie Chavez,144,"['Amanda Shaw,Adam Hernandez,Dana Rios,Phillip Wilson']",Low
+895,Paul Chang,172,"['Grace Spencer,Stephanie Blair,Sheri Thompson,Gary Munoz,Joshua Martin,Maria Perry,Jacob Sparks']",High
+896,Andrew Diaz,22,"['Nicole Goodman,Sharon Martin,Kayla Stout,Susan Harrison,Miss Leah Fuentes MD']",Low
+897,Edward Padilla,177,"['Michelle Henson,Tyler Shepherd,Robert Green,John Jackson,Christian Miller']",Medium
+898,Robert Parker,175,"['Keith Chambers,David Pierce,Maxwell Reynolds']",Medium
+899,Steven Franklin,133,"['Sharon Santiago,Tammy Hall,Sandra Hines,Tara Brown,Michael Boyer,Valerie Huynh']",High
+900,Nicholas Murphy,71,"['Lisa Harrison,Cheryl Allen,Paul Conway,Jose Watts,Gregory Mitchell,William Morris']",High
+901,Catherine Lewis,77,"['Jasmine Krueger,Mr. Dylan Johnson,Nicholas Porter,Amy Miller,Oscar Cobb,Kristin Roach,Timothy Spencer,Kevin Davis,Kimberly Watts']",Low
+902,Elizabeth Williams,5,"['Wesley Gordon,Brendan Khan']",Medium
+903,Ms. Cynthia Richardson,116,"['Joshua Campbell,Kristen Duffy,Steven Burton']",Low
+904,Elizabeth Macdonald,53,"['Stephanie Ford,Charles Wright']",Medium
+905,Jacqueline Brown,105,"['Mary Campbell,Todd Fields,Gloria Bowman,Robert Henry']",Medium
+906,Erica Miller,90,"['Lauren Smith,Mrs. Brianna Carey MD,Gabrielle Moreno']",Low
+907,Mr. Steven Warren,26,"['Michael Bishop,Misty Andrews,Richard Christian,Shelly Pena,Christian Archer']",Low
+908,Jacob Sanchez,159,"['John Bonilla,Rachel Tran,Anita Martinez,Denise Wilkins,Dr. Alicia Hickman,Kyle Diaz']",High
+909,Timothy Clements,139,"['Edward Little,Tracy Robertson,Sabrina Parks DDS,Brandon Travis,Mary Brown,Lisa Chapman,Kristopher Young,Gabriel Meadows,Allen Russell']",Medium
+910,Daniel Preston,22,"['Ashley Parker,Rebecca Brown,Spencer Allen,Kenneth Franklin']",High
+911,Albert Gutierrez,178,"['Michael Schneider,Julie Adams,Bianca Henson,Leah Lopez,Ryan Sanchez,David Thompson,Alicia Brown,Jose Gardner,Andrew Dunlap']",Low
+912,Christian Kerr,43,"['Michael Collier,Darren Adkins']",Medium
+913,Stephanie Miller,37,"['Scott Wang,Todd Graves,Veronica Waters,Miguel Leonard,William Payne,Melissa Torres,Grace Hart,Kyle Stewart,Stephen Dudley DDS']",High
+914,Kevin Henderson,116,"['Nathan Lopez,James Peters,Andrew Mcgee,Phillip Greene,Matthew Franklin,Kristen Stewart,Edward Chase,Nancy Hill,Danielle Bryant,James Myers']",Medium
+915,Brooke Wright,15,"['Charles Rodriguez,Christie Collins,Colleen Martinez']",High
+916,Bethany Campos,140,"['Kenneth Romero,Robert Zimmerman,Daniel Goodwin,Ryan Lowery,Calvin Lawrence']",Medium
+917,David Frost,56,"['Rita Robbins,David Sanchez,Ashley Burton,Kirk Rivera,Brett Walsh']",High
+918,Seth Kelley,139,"['Kathryn Davis,Mrs. Carol Tran,Mackenzie Davis,Nicholas Jackson,David Hall,Scott Finley,Kimberly Smith,Troy Frazier,Carol Mercer']",High
+919,David Martinez,89,"['Katie Hunter,John Velez,Jason Juarez,Adrian Wright']",Medium
+920,Adam Ross,138,"['Sandra Carter,Paula Moore,Melody Torres,Nicole Scott,Patrick Higgins,Diane Jacobs DDS,Lucas Morris,Lisa Wilkerson,Ashley Nguyen']",Medium
+921,Angela Lane,141,"['Samantha Harrington,Bruce Anderson,Amanda Ramirez,Sarah Hill,Robyn Blake,Alison Larson,Lindsey Hanson,Travis Hutchinson,Betty West']",High
+922,Nicole Reynolds,74,"['Stephanie Boyer,Stephanie Stein,Christopher Campbell,Victoria Rogers,Morgan Grant,Anthony Allen,Thomas Moore,Laura Williams,Mrs. Debra Gilbert,Shelly Craig']",Low
+923,Samantha Parker,81,"['Valerie Vargas,Charles Moore,Stephen Jackson,Robert Taylor,Jacqueline Escobar,Ian Hill,Joshua Cooper,Patricia Roy,Lynn Ali']",Low
+924,Dawn Lloyd,45,"['Katherine Moore,Rodney Carr,Jessica Salas,David Caldwell']",Low
+925,Deborah Rogers,122,"['Jonathan Lee,Katherine Johnston,Briana Carr,Michele Stewart']",Low
+926,Amy Anthony,179,"['Patricia Powell,Joshua Tran,Rachel Rice,Jessica Levy,Andrew Morris,Sean Davis,Robert Hamilton,Debra Boone']",High
+927,Sharon Rogers,56,"['George Yu,Joseph Lopez,Brian Bryant,Jacqueline Carroll,Veronica Hernandez,Stephen Kennedy MD,Robert Hernandez,Eric Owen,Joshua Lewis']",High
+928,Barbara Crane,48,"['Amber Moore,William Obrien,Joshua Cooley']",Low
+929,Jessica Howard,47,"['John White,Kerry Burns,Kim Soto']",Medium
+930,Alexander Hawkins,143,"['Charles Martinez,Michelle Mullins,Tiffany Murphy,Lance Burke,Laura Gates,Kevin Mills,Austin Pope,Christie Warner,Ronald Chapman,Deborah Dunn']",Low
+931,Kimberly Hood,131,"['Victor Wall,Heather Gray,Martha Gentry,Stephanie James,Laurie Pitts']",High
+932,Mr. Dennis Logan II,158,"['Sean Lee,John Pope,Stacy Hill,Amanda Reid,Erika Reeves,Reginald Anderson,Brooke Bell']",Low
+933,Megan Wilson,129,"['Nicole Ayers,Joshua Douglas,Jeremy Edwards,Brooke Gonzalez,Stanley Washington,Kevin Hopkins DVM,Nathan Lee,Elizabeth Flores,Dawn Sosa']",Medium
+934,Jennifer Davidson,120,"['Mark Carr,Mitchell Webb,Gregory Phillips,Michael Anderson,Scott Leblanc MD,Stephen Cabrera,Joseph Hall,Brenda Richards,Alexander Huff']",Medium
+935,Brittany Roy,78,"['Daniel Fischer,Chad Walter,Christopher Anderson,Melissa Green,Michele Faulkner,Karen Kirk']",Medium
+936,Patricia Wells,31,"['Dana Jones,Jessica Graham,Beverly Taylor,Pamela Graves,Amy Santos,Shawn Wong']",Low
+937,Mason Lawrence,87,"['Meghan White,Alexandra Sloan,Micheal Knox,Morgan Allen,Christopher Koch,Wendy Peck,John Skinner,Devon Peters,Shelby Brewer,Lisa Mcgrath']",Medium
+938,Shannon Cooley,131,"['Kimberly Phillips,James Holt,Duane Peterson,Margaret Alexander,Brian Ward,James Jimenez,Darlene Thornton,Brett Harris']",High
+939,Alan Thompson,68,"['Angela Morris,Cheyenne Brown,Thomas Smith,Chelsea Black']",Medium
+940,Chelsea Waters,22,"['Leslie James,Brandi Smith,David Wheeler,Bethany Nichols']",Low
+941,Michelle Johnson,37,"['Brandon Smith,Gerald Gonzalez,Raymond Gonzalez,Jamie Barker,Thomas Walton,Valerie Fox,Marcus Kirk,Joseph Hobbs']",High
+942,Scott Davis,19,"['Devin Perez,Megan Harper,Alexander Robinson,Tonya Haas,Jason Williams,Brian Smith,Dawn Torres,Karen Roman,Robert Howard']",High
+943,Andrea Webster,18,"['Rebecca Watson,Lisa Lewis,Aaron Morris,Alexander Peterson,Frederick Taylor,Phillip Bryant,Christina Andrade']",Low
+944,Joshua Hoffman,60,"['Alec Mcgee,Gabrielle Walker,Jaime Hernandez,Carlos Becker,Sharon Gonzalez,Tracie Johnson']",Medium
+945,Laurie Martinez,20,"['Jacob Copeland,Steven Hawkins']",Medium
+946,Amber Suarez,128,"['Mr. Ian Stein IV,James Miller,Anthony Young,Courtney Stewart,David Mosley,Mrs. Rebecca Key MD']",High
+947,Bryan Villarreal,117,"['Steven Arnold,Lisa Bryant,Debra Luna,Devon Kelly']",Low
+948,Bryan Parrish,140,"['Vickie Bryant,Lauren Aguilar,Howard Atkinson,John Anderson,Philip Cooke,Larry Martinez,Alicia Smith']",High
+949,Sharon Moreno,78,"['Anthony Olson,Morgan Buchanan,Stacey Cooper,James Rodriguez,Erin Smith,Charles Jones,Cody Keith,Scott White DVM,Sherri Smith']",Low
+950,Donna Bates,39,"['Robert Brown,Alexandria Phillips,Sarah Cantu,Michael Thomas,Amanda Matthews,Megan Smith,Lindsey Washington,Tracy Pena,Mitchell Snyder']",Low
+951,Timothy Jimenez,176,"['Mr. Juan Perez,Tara Kelley,Olivia Dillon,Philip Kaiser']",Medium
+952,Lorraine Hill,12,"['Matthew Clark,Vanessa Hampton,Jennifer Smith,Andrew Johnson,Mark Gutierrez,Andrew Miller']",Low
+953,Tiffany Martin,160,"['Elizabeth Green,Alisha Newman,Susan Thomas,Melissa Jones,Kyle Berg,Heather Weber,Jessica Lutz,Brian Watson']",Medium
+954,Miss Anita Foster MD,17,"['Bryan Clark,Mark Matthews']",High
+955,Edward Friedman,81,"['Ricardo Wong,Bryan Snyder,Richard Kramer,Andrew Burke,Tracy Nichols,Andrea Smith,Megan Yang,Benjamin Tran']",High
+956,Christopher Conway,180,"['Yvette Jackson,Jim Lopez,Julie George,Elizabeth Perez,Garrett Estrada,Ronald Wells,Shawn Osborn,Matthew Conley,Amanda Rivera,Maria Harris']",High
+957,Melissa Gomez,27,"['Marie Potter,William Mitchell,Jorge Becker,Desiree Beard,John Jones,Richard Reyes']",Low
+958,Michael Herrera,162,"['Monica Walker,Scott Velasquez,Mark Rosales,Debra Moreno,Joseph Ingram']",Low
+959,Alexis Gray,129,"['Steven Webb,Amanda Duncan']",High
+960,Kimberly Medina,43,"['Mark Adams,Cristian Durham,Leslie Thomas,Chris Cook']",Medium
+961,Anthony King,83,"['Robert Hall,Patricia Deleon,Erin Arias,Morgan Garza,Philip Norton,Carlos Briggs']",Medium
+962,Natalie Russell,79,"['Brandi Parker,Amanda Henry,Paul Reid,James Cisneros,Timothy Moore']",Medium
+963,Joshua Allen,89,"['Mark Hampton,Brett Humphrey,Thomas Rivers,Lauren Wall']",Low
+964,Sheila Reed,163,"['Ashley Wood,Steven Serrano,Angela Gallegos,Mark Carroll,Noah Cross,Jessica Bruce,Mark Johnson']",Medium
+965,Rhonda Hess,9,"['Thomas Duarte,Francisco Lee,Amber Lopez,Melissa Guerra,Jerry Perez,Renee Hall,Lindsey Bridges']",High
+966,Katherine Martin,107,"['Travis Lopez,Christina Brown,Jerry Foster,Brian Trujillo']",High
+967,Brandy Diaz,77,"['Elijah Kennedy,Matthew Ellis,Mr. Christopher Woods,Jeremy Floyd,Mary Figueroa,Vanessa Wong,Tracey Johnson,Emily Prince,Alexandria Mitchell,Jessica Jones']",High
+968,Michael Montoya,48,"['Phyllis Townsend,Carrie Meyer,William Wells,Kimberly Green DDS,Melissa Campos']",High
+969,Julia Martin,18,"['Christine Rodriguez,Don Kennedy,Robert Moreno,Joseph Velez,Laura Brown,Timothy Munoz,Miss Erika Nunez']",Medium
+970,Seth Wright DVM,94,"['David Vaughn,Debra Johnson,Bradley Nunez,Ryan Monroe']",Low
+971,Tara Donaldson,29,"['Vanessa Bell,Megan Porter,Shelley Golden,Michael Torres,Timothy Alvarez,Michael Smith,Antonio Cannon,Sean Evans,William Hall,James Weiss']",High
+972,Victoria Armstrong DDS,168,"['Dalton Stephens,Robert Ford']",Medium
+973,Veronica Ford,90,"['Dale Cruz,James Mendez,Tyler Davis,Troy Howard,Albert Pennington,Robin Marshall,Dustin Lewis']",Low
+974,Mercedes Davis,166,"['Timothy Schroeder,Joshua Martinez']",High
+975,Frederick Moody,57,"['Jimmy Strong,Cameron Vazquez,Laura Mcknight,Samantha Johnson,Yvonne Marshall,Beverly Brown,Colton Cobb,Theresa Jones']",High
+976,Anna Green,64,"['Bryan Walters,Aaron Brown,Daniel Reyes,Benjamin Chapman']",High
+977,Sarah Phillips,73,"['Julie Cardenas,Nancy Miller,James Payne,Jennifer Jacobs,Mrs. Diane Adams,Ryan Stark,Alyssa Smith,Toni Chen']",Medium
+978,Emily Chavez,163,"['Michael Manning,Christopher Silva,Sandra Bates,Megan Davis,Timothy Klein']",Low
+979,Richard Strong,107,"['David Mccann,Toni Mann,Ashley Prince']",Low
+980,Antonio Peterson,175,"['Michelle Perez,Joshua Norris,Bobby Barnes,Matthew Lewis,Veronica Anderson,Alexander Davis,Stephanie Valentine']",High
+981,Nathan Sanders,86,"['Samuel Martin,Jennifer Miller,William Wagner,Amber Hurley,Anne Armstrong']",Low
+982,Taylor Weaver,140,"['Shannon Page,Vicki Salinas']",Low
+983,Carol Hayes,99,"['Karen Johnson,John Wiley,Adriana Hernandez,Desiree Burnett,Frank Orozco']",Medium
+984,Michael Shaw,108,"['Laura Berry,Natalie Johnson,Ashley Webb,Katelyn Smith,Donald Patterson,Angela Malone,Erika Douglas,Joshua Hall']",Low
+985,Matthew Jones,13,"['Bruce Crosby,Adam Williams,Misty Smith,Mrs. Laura Jackson']",Low
+986,Anthony Hamilton,35,"['Russell Long,Troy Lloyd,Anthony Duran,Yvonne Johnson,Dr. Thomas Castillo,Megan Singh,Misty Arnold,Daniel Oliver,Steven Lopez,Jeff Hoffman']",High
+987,Matthew Hubbard,56,"['Kyle Murphy,Laura Weaver']",High
+988,Dylan Mcmillan,65,"['Kristen Evans,Mr. Jose Hall,Derek Figueroa,Wendy Guerra']",High
+989,Rebecca Chambers,137,"['Ryan Wilson,Elizabeth Davis,Dennis Davis,James Hernandez']",High
+990,Thomas Everett,164,"['Michael Phelps,Sabrina Moore,Bradley Johnson,Rose Bates,Christine Rodriguez,Penny Levy,David Griffin MD,Tommy Harmon,Kristin Woods']",High
+991,Jason Yoder,169,"['Jason Reed,Erica Mcbride,Gregory Warren']",Medium
+992,Miranda Smith,114,"['Aaron Pittman,Laurie Roach,Jill Gibbs,Kevin Kim DDS,Jeffrey Collier,Ashley Kelley,Raymond Williams,Gabriella Reeves,Stephen Allen']",High
+993,Jacqueline Hunt,137,"['Rachael Olson,Steven Simpson,Benjamin Ramirez,Ashley Hall,Kimberly Buchanan,Mary Ramirez']",High
+994,Luke Hart,70,"['Matthew Henderson,Joseph Jimenez']",Low
+995,Paul Sullivan,159,"['Cheryl Pruitt,Andrew Dean,Lori Taylor,Aaron Roberts,Christopher Frye,Jessica Mendez,Jonathan Estrada,Jason Lewis']",Medium
+996,Ronald Santiago,146,"['Sandra Curry,Renee Morrow,Kim Rodriguez,Elizabeth Lewis']",High
+997,Rebecca Nelson,133,"['Jeffrey Oconnell,Travis Murphy,Kelly Morrow,Gerald Smith,Raymond Smith,Miguel Krause,Charles Anderson,Tiffany Ross,Stephanie Bailey']",Low
+998,Joan York,153,"['Christina Campbell,Erin Ray,Rachael Hanna']",High
+999,Diana Smith,89,"['David Yates,Anna Wells,Ryan Colon,Richard Perez,Michael Shepard,Stephanie Holland,Tami Graves MD,Sherry Hunt,Marcus Brown,Roger Gilbert']",Medium
